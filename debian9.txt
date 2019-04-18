@@ -1,7 +1,7 @@
-﻿鸟哥-第二十备份策略 parameter/pəˈræmɪtɚ/参数
+﻿parameter/pəˈræmɪtɚ/参数 ;batch一批，批处理；feature/ˈfitʃɚ/特征
 vendor小贩，供应商 preset预设
 recursive/rɪˈkɜ:rsɪv/递归的，回归的  factorial/fækˈtɔriəl, -ˈtor-/因子的，阶乘
-scale/skel/规模级别，测量衡量 
+10scale/skel/规模级别，测量衡量 
 sign迹象，符号，签名；assign分派，分配，归属；sigh叹气
 unterminated/ʌntɜ:mɪ'neɪtɪd/无端接的，未终止的terminal终点站
 longitude经度，latitude纬度
@@ -135,7 +135,7 @@ umount /dev/sda3
 fsck /dev/sda3
 
 10.xshell生成公钥，在服务器注册实现key登陆：
-1)在win下通过xshell密钥工具生成.pub，保存本地。在服务端，/root/.ssh/目录下，viauthorized_keys 文件，将生成密钥内容复制进去。
+1)在win下通过xshell密钥工具生成.pub，保存本地。在服务端，/root/.ssh/目录下，vi authorized_keys 文件，将生成密钥内容复制进去。
 2)修改ssh配置文件/etc/ssh/sshd_config，设置PubkeyAuthentication为yes，添加AuthorizedKeysFile /root/.ssh/authorized_keys，制定认证文件；
 3)重启ssh服务，可通过xshell的密钥免密码登陆；
 
@@ -818,7 +818,43 @@ zrj    ALL=(ALL:ALL) ALL,!/usr/bin/passwd root #zrj用户可以使用sudo来执�
 zrj	ALL=(root)  !/usr/bin/passwd, /usr/bin/passwd [A-Za-z]*, !/usr/bin/passwd root #可以執行『 passwd 任意字元』，但是『 passwd 』與『 passwd root 』這兩個指令例外，这样设置后zrj的sudo只能用于修改其他用户的密码，其他root专属指令无法执行。
 
 5.SUID，SGID
-SetUID(或者 s 权限）：当一个具有执行权限的文件设置SetUID权限后，用户执行这个文件时将以文件所有者的身份执行。passwd命令具有SetUID权限，所有者为root（Linux中的命令默认所有者都是root），也就是说当普通用户使用passwd更改自己密码的时候，实际在以passwd命令所有者root的身份在执行，root当然可以将密码写入/etc/shadow文件，这个权限伴随着passwd这个进程的进行而存在，命令执行完成后该身份也随之消失。
+	
+		二进制文件                       目录
+SUID  	此用户将继承此程序的所有者权限		无意义
+SGID	此用户将继承此程序的所属组权限		此目录下所有用户新建文件都自动继承此目录的用户组
+Sticky	无意义					目录中每个用户仅能删除、移动或改名自己的文件或目录
+
+5.1 SetUID(或者 s 权限）：当一个具有执行权限的文件设置SetUID权限后，用户执行这个文件时将以文件所有者的身份执行。passwd命令具有SetUID权限，所有者为root（Linux中的命令默认所有者都是root），也就是说当普通用户使用passwd更改自己密码的时候，实际在以passwd命令所有者root的身份在执行，root当然可以将密码写入/etc/shadow文件，这个权限伴随着passwd这个进程的进行而存在，命令执行完成后该身份也随之消失。
+root@zrj-debian:~/test/learngit# ll /usr/bin/passwd
+-rwsr-xr-x 1 root root 59680 May 17  2017 /usr/bin/passwd
+SetUID条件：
+必须具备以下几个条件（前提）：
+只有可执行的二进制程序才可以设置SetUID
+所有者必须对欲设置SetUID的文件具备 可执行(x) 权限
+命令执行过程中，其它用户获取所有者的身份（灵魂附体）
+SetUID具有时间限制，即完成该程序执行后就消失
+设置SetUID
+chmod 4xxx < file-name >
+chmod u+s < file-name >
+取消SetUID
+chmod xxx < file-name >
+chmod u-s < file-name >
+5.2 SetGID：设置所属组的特殊权限，
+设置SetGID
+chmod 2xxx 
+chmod g+s
+取消SetGID
+chmod xxx 
+chmod g-s
+5.3 SBIT粘滞位
+只对目录有效
+普通用户对该目录有w和x权限
+若没有粘滞位，则普通用户可以对目录下的文件/子目录进行删除操作（因为普通用户对目录具有w权限），包括其它用户建立的目录/文件；但若赋了SBIT,则普通用户只能删除自己创建的文件/目录，而不能删除不属于自己的文件/目录！
+如/tmp目录
+root@zrj-debian:~/test/learngit# ll -d /tmp
+drwxrwxrwt 13 root root 4096 Apr  3 17:39 /tmp
+
+
 
 
 三-五-三、打包压缩解压
@@ -841,6 +877,14 @@ SetUID(或者 s 权限）：当一个具有执行权限的文件设置SetUID权�
 壓　縮：tar -jcv -f filename.tar.bz2 要被壓縮的檔案或目錄名稱
 查　詢：tar -jtv -f filename.tar.bz2
 解壓縮：tar -jxv -f filename.tar.bz2 -C 欲解壓縮的目錄
+
+如果是没有经过打包，只是解压：
+对于.gz结尾的文件
+gzip -d all.gz  ##-d表示decompress解压缩
+gunzip all.gz
+对于.bz2结尾的文件
+bzip2 -d all.bz2
+bunzip2 all.bz2
 
 
 [root@study ~]# tar -jtv -f /root/etc.tar.bz2 #查看打包里面的档名，-v显示权限
@@ -1653,5 +1697,41 @@ scope：路由的範圍，主要是 link ，亦即是與本裝置有關的直接
 
 S (SYN), F (FIN), P (PUSH), R (RST), U (URG), W (ECN CWR), E (ECN-Echo) or `.' (ACK), or `none'
 ACK[.]中ack的值为前一次ACK的ack加上length的值。length的值为seq的差值，表明数据所在的位置为序号132到184。
+
+十、debian系统设置
+1.prodfs和sysfs
+procfs和sysfs两个伪文件系统，分别加载于"/proc"和"/sys"之上，将内核中的数据结构暴露给用户空间。或者说，这些条目是虚拟的，他们打开了深入了解操作系统运行的方便之门。
+目录"/proc"为每个正在运行的进程提供了一个子目录，目录的名字就是进程标识符（PID）。需要读取进程信息的系统工具，如ps()，可以从这个目录结构获得信息。
+
+"/proc/sys"之下的目录，包含了可以更改某些内核运行参数的接口。（也可以使用专门的sysctl()命令修改，或者使用其预加载/配置文件"/etc/sysctl.conf"。）
+root@zrj-debian:~/test/learngit# sysctl -a | grep rp_filter  ##显示含rp_filter的变量
+net.ipv4.conf.all.arp_filter = 0
+net.ipv4.conf.all.rp_filter = 0
+net.ipv4.conf.default.arp_filter = 0
+net.ipv4.conf.default.rp_filter = 0
+net.ipv4.conf.eth0.arp_filter = 0
+net.ipv4.conf.eth0.rp_filter = 0
+net.ipv4.conf.lo.arp_filter = 0
+### 含rp_filter变量路径：/proc/sys/net/ipv4/conf/*/rp_filter
+
+"/sys"以下的目录包含了内核输出的数据结构，它们的属性，以及它们之间的链接。它同时也包含了改变某些内核运行时参数的接口。
+
+2./proc/sys/net/ipv4/tcp_syncookies
+
+當啟動 SYN Cookie 時，主機在發送 SYN/ACK 確認封包前，會要求 Client 端在短時間內回覆一個序號，這個序號包含許多原本 SYN 封包內的資訊，包括 IP、port 等。若 Client 端可以回覆正確的序號，那麼主機就確定該封包為可信的，因此會發送 SYN/ACK 封包，否則就不理會此一封包
+echo "1" > /proc/sys/net/ipv4/tcp_syncookies ##开启
+
+3./proc/sys/net/ipv4/conf/網路介面/*
+
+rp_filter：稱為逆向路徑過濾 (Reverse Path Filtering)， 可以藉由分析網路介面的路由資訊配合封包的來源位址，來分析該封包是否為合理。舉例來說，你有兩張網卡，eth0 為 192.168.1.10/24 ，eth1 為 public IP 。那麼當有一個封包自稱來自 eth1 ，但是其 IP 來源為 192.168.1.200，那這個封包就不合理，應予以丟棄。
+
+
+
+
+
+
+
+
+
 
 

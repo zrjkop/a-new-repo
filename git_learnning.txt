@@ -50,7 +50,7 @@ git push -u origin [name]
 
 第二步是用git commit提交更改，实际上就是把暂存区的所有内容提交到当前分支。
 git status查看状态；
-先add后修改文件，当前提交只会保存add之前的状态（第一步是用git add把文件添加进去，实际上就是把文件修改添加到暂存区；第二步是用git commit提交更改，实际上就是把暂存区的所有内容提交到当前分支。）
+先add后修改文件，当前提交只会保存add之前的状态;
 如果需要提交保存的第二次修改，可以再add一次文件，之后再commit一次。或者第一次修改 -> git add -> 第二次修改 -> git add -> git commit
 1.git文件回滚
 git log查看操作版本号，git reset --hard 1094a（版本号前面几位）
