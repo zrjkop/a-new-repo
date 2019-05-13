@@ -11,9 +11,12 @@ test
 
 1122
 add a new line
+<<<<<<< HEAD
 add second line
 为什么之前直接修改后，push会提示remote很本地文件不一致，需要pull同步远端到本地，修改冲突文件才能push？ 
 editing 
 test
 editing
 now is a new branch
+editing
+now is a new adding
