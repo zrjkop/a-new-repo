@@ -1,14 +1,10 @@
-
 1029
 test
 0000
 1234
 5678
-
 9090
-
 2019
-
 1122
 add a new line
 <<<<<<< HEAD
@@ -20,3 +16,4 @@ editing
 now is a new branch
 editing
 now is a new adding
+testing
