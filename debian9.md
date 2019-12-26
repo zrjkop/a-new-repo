@@ -1,0 +1,2416 @@
+```
+parameter/pəˈræmɪtɚ/参数 ;batch一批，批处理；feature/ˈfitʃɚ/特征
+vendor小贩，供应商 preset预设
+recursive/rɪˈkɜ:rsɪv/递归的，回归的  factorial/fækˈtɔriəl, -ˈtor-/因子的，阶乘
+scale/skel/规模级别，测量衡量 
+sign迹象，符号，签名；assign分派，分配，归属；sigh叹气
+unterminated/ʌntɜ:mɪ'neɪtɪd/无端接的，未终止的terminal终点站
+longitude经度，latitude纬度
+scalar/ˈskelɚ, -ˌlɑr/adj. 标量的；梯状的；分等级的；数量的 n. 数量，标量
+VPC（Virtual Private Cloud）虚拟私有云
+CIDR是英文Classless Inter-Domain Routing的缩写，中文是无类别域间路由，是一个在Internet上创建附加地址的方法，这些地址提供给服务提供商（ISP），将多个无类别网段聚合成一个，减轻路由条目数，降低路由存储空间。
+substitution/ˌsʌbstɪˈtuʃən, -ˈtju-/n. 替换；代替；代用；<化>取代（作用）
+numeric/nu:'merɪk/数字的，数值的 ；dump/dʌmp/倾倒，丢下；转嫁
+reverse/rɪˈvɜ:rs/反向的，颠倒的，反转；purge/pɜ:rdʒ/vt. 肃清；清除，（使）净化；regex正则表达式；present adj. 目前的；现在的；出席的；[语法学]现在时的；prevent防止，阻止，预防
+archive/'ɑ:kaɪvz/档案，档案馆
+verify/ˈvɛrəˌfaɪ/核实，证明，验证;authenticate/ɔˈθɛntɪˌket/验证；verbose/vɜ:rˈboʊs/冗长的，累赘的；-v参数，显示详情
+prompt/prɑ:mpt/迅速的，提示，促进  native本地的，原生的，天真的。
+utility/juˈtɪləti/公用，效用，多用途的;untitled无标题的，无称号的，无权利的
+external/ɪkˈstɜ:rnl/外部的，外面 expire/ɪkˈspaɪr/期满，失效，到期 ；maintainer维修者，维护者；maintain保持，坚持，拥护
+private私有的;primary首要的，初级的;primacy首位，首要地位n.
+interpreter/ɪnˈtɜ:rprɪtə(r)/n. 解释者；口译译员；[军事]判读员；[自]翻译器 convert转变，转换
+distinct/dɪˈstɪŋkt/明显的，卓越的，不同的；extent程度，范围 ；extend/ɪkˈstɛnd/延伸，拓展的；
+catalog/ˈkætlˌɔɡ, -ˌɑɡ/目录，登记；revoke/rɪˈvoʊk/撤销，取消；span持续时间，范围，跨度
+discard/dɪsˈkɑ:rd/丢弃，抛弃； utilize利用，使用/ˈjutlˌaɪz/；  elicit/ɪˈlɪsɪt/引出，探出，引起；indicate表明，指示	
+Zerorpc是一个基于ZeroMQ和MessagePack开发的远程过程调用协议（RPC）实现。和 Zerorpc 一起使用的 Service API 被称为 zeroservice。Zerorpc 可以通过编程或命令行方式调用。
+它允许你：
+ 
+不用修改代码即可显露python模块
+通过命令行远程调用这些模块
+RPC（Remote Procedure Call）AWS Direct Connect (DX)
+fork叉，分岔，岔路；prune/pru:n/修剪，精简；util工具？，跑龙套,原型utility？/juːˈtɪləti/实用，效用，多功能的，debian里面常用的dnsutil，安装这个库后可以使用nslookup和dig查看域名解析
+specify/ˈspesɪfaɪ/v. 具体说明；明确规定；详述；详列，指定；duplicate/ˈduːplɪkeɪt , ˈduːplɪkət/复制，复印
+burst/bɜːrst/爆发，突发，猛冲；segment/ˈseɡmənt , seɡˈment/部分，片，段
+vultr密码：sKteedeQfcvHQ2M，略贵$10起充
+亚马逊：uQ44jtGz7-9AGzd，需要信用卡验证
+PAM(pluggable authentication modules)嵌入式认证模块；fusion/ˈfjuːʒn/融合，结合；slice/slaɪs/片，部分，切，割
+MTU：maximum transmission unit最大传输单元；MSS：maximum segment size最大报文段长度；fragment/ˈfræɡmənt , fræɡˈment/片段，碎片
+convention/kənˈvenʃn/习俗，常规，惯例；entity/ˈentəti/实体，独立存在物；suffix/ˈsʌfɪks/后缀；prefix前缀
+，specified；invoke/ɪnˈvoʊk/援引，援用；strace策略；
+lease//li:s/租赁，租借；attend/əˈtend/出席，参加；unattended无人值守的，无人看管的。notify通告，通知；
+template/ˈtemplət/模板,样板,属性；grace/ɡreɪs/n.优美，优雅；v.为增色，使荣耀；manifest/ˈmænɪfest/v.表明，显示；adj.显而易见的，n.货单，旅客名单。squid/skwid/鱿鱼，枪乌贼canonical/kəˈnɑːnɪkl/规范的，经典的intact/ɪnˈtækt/完好无损的，完整的premature/ˌpriːməˈtʃʊr/过早的，仓促的，草率的；mature/məˈtʃʊr/明白事理的，成熟的；v.成熟，长成omit/əˈmɪt/删除，忽略，不做
+plain/pleɪn/平原，清楚的，直率的，明显的。revenue/ˈrevənuː/收入，收益。failover故障转移，容错
+SNI（server name indication/ˌɪndɪˈkeɪʃn/表明，指示，象征）section/ˈsekʃn/部分，部门；scheme/ski:m/计划，方案
+hijacking/ˈhaɪdʒækɪŋ/劫持；forum/ˈfɔːrəm/论坛，讨论会；offset/ˈɔːfset/抵消，补偿；scribe/skraɪb/抄写员
+deprecate/ˈdeprəkeɪt/强烈反对，不赞成；deprecating不以为然的，反对，折旧；individual/ˌɪndɪˈvɪdʒuəl/单独的，个人的；个人
+detached/dɪˈtætʃt/单独的，独立的，不连接的；v.分开，脱离；sentinel/ˈsentɪnl/哨兵；inverse/ˌɪnˈvɜːrs/相反的，反向的
+strip/strip/除去，剥掉；队服，带； incremental/ˌɪnkrəˈmɛntəl/增加，递增；增量
+evaluate/ɪˈvæljueɪt/估计，评估；retrieve/rɪˈtriːv/取回；索回；检索数据；inherit/ɪnˈherɪt/继承；inspect/ɪnˈspekt/检查，查看
+valid/ˈvælɪd/有效的，合理的
+
+
+一、软件包管理
+1.dpkg -l显示已安装软件库包；dpkg -l package #显示指定包的状态
+dpkg -l中每一行记录一个软件包信息，第一、二、三个字符，记录软件包状态标识，一般显示为ii,表示正常已安装状态（第三字符为空，标识错误状态为空，表示正常；其他符号对应相应问题Err?=(none)/Reinst-required (Status,Err: uppercase=bad)）
+
+dpkg -L package #显示包里面的文件，与dpkg -c package.deb显示内容差不多，-c会显示具体目录及权限
+dpkg -s package #status显示包安装状态等信息
+dpkg -i package.deb #安装手动下载的deb包
+dpkg -r package  #remove移除安装包,只是删除数据和可执行文件
+dpkg -P package  #purge，完全清除配置文件
+
+
+常用的APT命令参数： 
+apt-cache search package 搜索包 
+apt-cache show package 获取包的相关信息，如说明、大小、版本等 
+sudo apt-get install package 安装包 
+sudo apt-get install package - - reinstall 重新安装包 
+sudo apt-get -f install 修复安装"-f = ——fix-missing" 
+sudo apt-get remove package 删除包 
+sudo apt-get remove package - - purge 删除包，包括删除配置文件等 
+sudo apt-get update 更新源 
+sudo apt-get upgrade 更新已安装的包 
+sudo apt-get dist-upgrade 升级系统 
+sudo apt-get dselect-upgrade 使用 dselect 升级 
+apt-cache depends package 了解使用依赖 
+apt-cache rdepends package 是查看该包被哪些包依赖 
+sudo apt-get build-dep package 安装相关的编译环境 
+apt-get source package 下载该包的源代码 
+sudo apt-get clean && sudo apt-get autoclean 清理无用的包 
+sudo apt-get check 检查是否有损坏的依赖
+apt-get下载目录/var/cache/apt/archives,安装时会先搜寻这个目录有无需要安装的包，无则在线下载回来，可以把下载的deb文件放到该目录，之后可以直接安装。
+
+
+
+2.虚拟机开启提示“无法打开内核设备“\\.\Global\vmx86”: 系统找不到指定的文件。是否在安装 VMware Workstation 后重新引导?  未能初始化监视器设备。”
+在电脑--管理--服务，找到虚拟机服务，手动开启，重启vm生效。
+3.Linux vi编辑器方向键及退格键失效问题
+现象：上下左右键会变成ABCD， 退格键无效。
+
+
+
+解决办法：
+
+方法1. 卸载当前vi编辑器，然后重新安装。
+
+（1）sudo apt-get remove vim-common
+
+（2） sudo apt-get install vim
+
+
+
+
+方法2. 修改/etc/vim/vimrc.tiny文件，将set compatible改成set nocompatible，然后再添加一行set backspace=2即可（vi无法操作时可用nano）。
+3-1.Linux登录过程中加载配置文件顺序：
+/etc/profile → /etc/profile.d/*.sh → ~/.bash_profile → ~/.bashrc → [/etc/bashrc]，后面的文件配置应该会覆盖前面的
+
+debian设置命令提示符配置文件：/etc/bash.bashrc；其他版本系统可能在/etc/profile，/root/.bashrc,/root/.profile等文件中可以设置。
+PS1中设置字符颜色的格式为：\[\e[F;Bm\]，其中“F“为字体颜色，编号为30-37，“B”为背景颜色，编号为40-47。用 \e[m 结束颜色设置。
+PS1='[\e[33;40m\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$ \e[0m' #加上\e[0m或者\e[m结束颜色设置，只是提示符为黄色，其他不受影响。
+PS1='[\e[33;40m\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '  #把命令提示符设置成黄色，但输入的指令也是黄色，所有页面显示都是黄色。
+PS1='[\e[36;40m\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$ \e[m \e[33;40m\]' #把提示符框内设置成青蓝色，后面指令显示黄色，其中\e[m可有可无。
+以上设置都会导致首行指令不会换行，会反过来覆盖提示符,都是因为颜色设置的部分没有使用\[和\]来转义(颜色设置的每个位置都需要完整的括起来)；解决方法是利用\[和\]这一对符号完成包住颜色设置段，非打印的字段都需要这对符号圈住。
+\[     begin a sequence  of  non-printing  characters,  which could  be  used  to  embed a terminal control sequence
+                         into the prompt
+\]     end a sequence of non-printing characters）
+最终设置为PS1='\[\e[36;40m\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$ \[\e[33;40m\]'
+
+4.安装VMware-tools遇到问题：/dev/sr0 默认挂载在/media/cdrom0上，直接复制压缩包到其他目录解压安装，到最后一步一直报错，VGAuthService:  failed
+Common Agent:   failed
+Unable to start services for VMware Tools，多次重装未果。按网上说换个目录挂载，挂载到/mnt，报错目录/dev/sr0 write-protected, mounting read-only，安装apt-get install cifs-utils（Common Internet File System utilities），之后可以正常挂载到/mnt，再提取压缩包，解压安装，一路done，没有报failed。
+VMware-tools开机启动：直接写在了root的.bashrc里面，登陆root用户时启动。
+
+5.定时任务
+1).使用命令 crontab -e 然后直接编辑定时脚本。
+这样执行以后，属于用户自定义的，会被写到 /var/spool/cron 目录下，生成一个和用户名一致的文件，文件内容就是编辑的定时脚本。
+2).使用命令 vi /etc/crontab 编辑定时脚本,（系统级的）做系统级配置我们会直接配置 /etc/crontab
+6.shell中运行.sh文件报错unexpected operator，debian默认dash(theDebian Almquist Shell)而不是bash(the GNUBourne-Again Shell)，有些语法不太一样。
+脚本中let语句报错let: not found，同样问题。
+解决方法：dpkg-reconfigure dash   选NO
+debian把默认的/bin/sh 软连接到dash，直接用sh运行.sh文件可能会有报错，用bash能正常运行，重新配置shell后,/bin/sh连接到bash，可以使用sh。
+可以通过ll /bin/sh查看当前链接状态：
+root@zrjdebian:~/test/cat_test# ll /bin/sh
+lrwxrwxrwx 1 root root 4 Jan  3 16:35 /bin/sh -> bash
+7.grub：来自GNU项目（自由软件计划）的启动引导程序，Grand Unified Bootloader
+MBR：主引导记录
+
+磁碟与分割槽在grub2中的代号：
+硬碟代號以小括號 ( ) 包起來；硬碟以 hd 表示，後面會接一組數字；以『搜尋順序』做為硬碟的編號！(這個重要！)
+第一個搜尋到的硬碟為 0 號，第二個為 1 號，以此類推；
+每顆硬碟的第一個 partition 代號為 1 ，依序類推。
+硬碟搜尋順序	在 Grub2 當中的代號
+第一顆(MBR)	(hd0) (hd0,msdos1) (hd0,msdos2) (hd0,msdos3)....
+第二顆(GPT)	(hd1) (hd1,gpt1) (hd1,gpt2) (hd1,gpt3)....
+第三顆	        (hd2) (hd2,1) (hd2,2) (hd2,3)....
+
+8.文件被删除但空间没释放：可能为调用这个文件的进程没有关闭，虽然文件被删除，但是由于句柄没有释放，这个文件还占用磁盘空间，此时使用ls -l命令和du命令就不会看到这些被删除的文件。情景：不同终端连接到同一个机器，如果一个终端A在进行某个目录文件的编辑，而另一个终端B对该目录文件进行删除，此时在B这边，查看文件已经被删除，但是空间没有被释放出来，因为A中还要进程在占用这个文件空间；关闭A连接或者编辑进程，可以释放空间。
+建议操作：可以考虑使用> file来取代rm操作，这个重写覆盖将文件内容清空，释放空间，同时另外终端对其的编辑进程关闭与否不会对释放文件空间造成影响。
+:>file跟>file操作好像都一样，将文件清空，不会因为文件在命令执行期间还被使用而报错。
+root@zrj-debian:~/test/shell# :>test.tar.bz2 
+root@zrj-debian:~/test/shell# >test6 #####文件内容被清空
+
+9. 救援模式：mount -o remount,rw / 將根目錄掛載成可讀寫
+按下e，然后移动到以linux开头的行尾，并添加systemd.unit=rescue.target（紧急模式下启动，那就添加systemd.unit=emergency.target）。按Ctrl-x或F10保存并启动；按下回车键以获取shell，然后从这里开始故障排除。
+重置root密码：
+按e进入编辑后，在Linux行尾添加init=/bin/bash，重启进入系统，remount根目录，修改密码重启，此时应该用不了reboot等指令，只能reset或强制关机再启动。
+如果磁区/dev/sda3有问题，而且是被挂载状态，修复需要先umount：
+umount /dev/sda3
+fsck /dev/sda3
+
+10.xshell生成公钥，在服务器注册实现key登陆：
+1)在win下通过xshell密钥工具生成.pub，保存本地。在服务端，/root/.ssh/目录下，vi authorized_keys 文件，将生成密钥内容复制进去。
+2)修改ssh配置文件/etc/ssh/sshd_config，设置PubkeyAuthentication为yes，添加AuthorizedKeysFile /root/.ssh/authorized_keys，制定认证文件；
+3)重启ssh服务，可通过xshell的密钥免密码登陆；
+10.1debian生成公钥ssh-keygen -f /****/djdl -C jumpserver ##-f指定文件名输出，-C添加注释
+
+11.debian使用tab填充命令时报错cannot create temp file for here-document: No space left on device
+df -h查看磁盘空间；du -sh /* 查找大目录，一步步查找大文件；du -h --max-depth=1 查找大文件
+若未找到符合的大文件，则可使用lsof命令查询删除了的文件（这些文件是被占用的）：lsof | grep deleted 之后根据进程PID杀掉。
+
+12.pts/0说明
+ptmx and pts - pseudo/ˈsudoʊ/假的，伪装的-terminal master and slave，pts是所谓的伪终端或虚拟终端，具体表现就是打开一个终端，这个终端就叫pts/0，如果再打开一个终端，这个新的终端就叫pts /1。
+
+二、网卡配置
+1.添加另外网卡暂时无解，到底是vm新添加网络适配器使其生效还是先加配置文件，目前操作看，在vm添加另一张网卡，无论是桥接，nat，本机模式，都可以从宿主机ping和telnet通，ssh能连接。问题是无法将新增的网卡进行自定义的设置，固定静态IP操作无法实现。直接在/etc/network/interifaces里面添加网卡数据的话，重启网络服务会报错，自定义的网卡会显示找不到设备。
+2.在原有网卡ens33基础上，添加虚拟网卡ens33：0，通过ip addr或者ifconfig可以看到配置信息的更新，但是一样无法重启网络服务，配置没有生效，也是用不了。
+3.关于固定静态IP，把ens33的DHCP设置为static模式，固定其IP，暂未测试，目测没问题。
+（以上内容2018-10-30 16：58作废）
+最终解决方式：通过vm添加一张网卡，选择桥接模式，然后虚拟机多了一张ens37网卡，在ifconfig显示下，暂无分配IP，修改/etc/network/interifaces信息，添加ens37为static模式，固定ip。第一次重启网络服务时没有输出，没报错，ifconfig显示固定的ip，但是系统重启过后，重启网络服务报错，一直报错ifup: failed to bring up ens37。不过固定的ip可以远程登陆。此时的操作发现，添加主机模式，生成的网卡没有显示ip（跟之前的操作结果不一样）；新加nat模式的网络适配器，会显示新ip。
+
+至于在哪里可以修改ens37和ens33的网卡名称，暂时未找到。（11月2号）
+有解：https://blog.csdn.net/dearggae/article/details/83506953
+1.修改配置/etc/default/grub，将GRUB_CMDLINE_LINUX=""改为GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"
+2.生成一个新的grub file，grub-mkconfig -o /boot/grub/grub.cfg
+3.修改/etc/network/interfaces里面的网卡名称，reboot生效。
+
+centos7的网卡名称修改：修改/boot/grub2/grub.cfg 找到menuentry 'CentOS Linux (3.10.0-862.el7.x86_64)所在模块（不是含有secure的那行），在linux16所在行后面添加net.ifnames=0，之后重启，网卡名会变成eth0。这个修改只是在正常模块下生效，secure模块不受影响。
+也可以修改/etc/default/grub,在GRUB_CMDLINE_LINUX=行后添加net.ifnames=0 biosdevname=0，启动时传递“net.ifnames=0 biosdevname=0 ”的内核参数（这是通过编辑/etc/default/grub并加入“net.ifnames=0 biosdevname=0 ”到GRUBCMDLINELINUX变量来实现）；运行命令grub2-mkconfig -o /boot/grub2/grub.cfg 来重新生成GRUB配置并更新内核参数，而后重启。这个会把正常模块和secure模块的启动都添加修改。
+往虚拟机centos7添加多一张网卡后，ip addr 可以显示对应eth1，但是/etc/sysconfig/network-scripts目录里找不到eth0和eth1的配置文件：
+nmcli con show #显示网卡UUID,ip addr中找到网卡mac，之后直接vi生成对应ifcfg-eth0，ifcfg-eth1，参照网卡写法。
+
+
+对于静态ip，eth1设置修改IP后，ip addr会显示新旧两个ip，ifconfig显示旧ip，ifup和ifdown后依然，此时新旧ip都可以登陆ssh，重启网络服务也是不再报错。可通过重启机器或者ip addr del 删除旧ip。
+（通过ip addr del 删除旧ip时，新ip一度消失，重启服务又回来了，应该ifdown和ifup也行）
+以上操作估计有问题，应该先ifdown 网卡，修改过后，再ifup网卡。直接在网卡运行的时候修改，系统已经读取过配置，缓存里面应该是旧的信息，修改后再操作ifdown和ifup应该会导致系统再读取时文件前后不一致的问题，经常性出现不可预估的报错。
+4.修改dhcp网卡为static后，/etc/resolv.conf配置消失，手动添加nameserver，在重启后失效。
+解决方案：安装resolvconf,apt-gat install resolvconf;在/etc/resolvconf/resolv.conf.d目录下的base或head文件下添加dns，
+nameserver 192.168.65.2
+nameserver 114.114.114.114（一个一行）；之后 resolvconf -u刷新配置，重启网络服务生效，systemctl restart networking.service
+或者在网卡配置里直接写入，vi /etc/network/interfaces,添加
+dns-nameservers 192.168.65.2
+dns-nameservers 8.8.8.8
+dns-nameservers 114.114.114.114
+重启网络服务生效。
+
+三、网卡
+网卡 顺序可以修改  /etc/udev/rules.d/70-persistent-net.rules（文件不一定存在，可以手动添加），通过里面的规则可以固定mac和网卡名称的关系，debian10不支持这种做法。
+根据网络管理部的同学介绍，多网卡在内核初始化PCI的顺序决定了网卡名是否竞争（乱序)的问题，/etc/udev/rules.d/70-persistent-net.rules 也是由此生成对应关系的。如果是正常情况的网卡设备识别顺序不乱序，这个文件也可以不需要。
+改 udev rules 配置：
+（1）在 /etc/udev/rules.d/70-persistent-net.rules 配置中添加相应条目
+（2）更新配置
+     update-initramfs -u
+（3）重启
+
+curl cip.cc(或者ifconfig.co) --interface 10.230.222.126(指定网卡)
+用于解析指定出口网卡外网IP
+for ((i=1;i<=24;i++));do ifdown eth2:$i;done
+批量设置网卡状态,关闭eth2:1到eth2：24这一堆网卡。
+for ((i=1;i<=5;i++));do ifdown 'eth'$i;done将网卡1到5关掉。
+for ((i=0;i<=5;i++));do ifdown eth'$i';done
+for ((i=0;i<=5;i++));do ifdown eth$i;done这几种写法好像都能正常执行
+
+
+ifconfig(需要安装)ifconfig、route、arp和netstat等命令行工具（它们统称为net-tools），管理和排查各种网络配置，apt-get install net-tools
+ip addr
+ip addr del 10.191.139.198/24 dev bond1 #删除bond1的10.191.139.198地址
+ifdown ifup网卡启动关闭
+修改interfaces网卡ip后，ifconfig显示还是之前ip，需要ip addr del删除
+修改网卡记得改静态路由，不然导致内网无法登陆
+1.多网卡绑定配置
+auto bond0
+iface bond0 inet static
+address 42.186.62.182
+netmask 255.255.255.0
+gateway 42.186.62.1
+slaves eth1 eth3 
+	bond_mode 802.3ad
+	bond_xmit_hash_policy layer2+3
+	bond_miimon 100
+	bond_updelay 200
+	bond_downdelay 200
+eth1和eth3的mac跟bond0一样，共享一个IP
+2.改完内网后, 新的网段 要加上   
+up /sbin/route add -net 10.0.0.0 netmask 255.0.0.0 gw 10.191.139.129做内网的默认路由
+配置如下
+auto bond1 
+iface bond1 inet static    
+address 10.191.139.198
+netmask 255.255.255.0
+up /sbin/route add -net 10.0.0.0 netmask 255.0.0.0 gw 10.191.139.129
+slaves eth0 eth2 
+    bond_mode 802.3ad
+    bond_xmit_hash_policy layer2+3
+    bond_miimon 100
+    bond_updelay 200
+    bond_downdelay 200
+从ip设置，添加的bond1:0要加在bond_downdelay 200之后，其他位置可能引起读取文件报错。
+
+3.在一張網路卡上面設定多個 IP：
+ifconfig eth0:0 192.168.65.199，添加一个ip给网卡eth0，新地址的mac跟eth0一样；多个ip共享一个物理网卡。
+ifconfig这种设置方式在网络服务重启后会失效，可通过修改/etc/network/interface来添加配置。
+
+lspci | grep -i net查看网卡型号和信息
+grep -i ##忽略字母大小写
+
+
+三-一、查看实时网卡流量
+1. sar -n DEV 1 2
+sar命令包含在sysstat工具包中，提供系统的众多统计数据。其在不同的系统上命令有些差异，某些系统提供的sar支持基于网络接口的数据统计，也可以查看设备上每秒收发包的个数和流量。
+
+ sar –n DEV  1 2 
+
+命令后面1 2 意思是：每一秒钟取1次值，取2次。#-n,网络使用情况。
+
+DEV显示网络接口信息
+另外，-n参数很有用，他有6个不同的开关：DEV | EDEV | NFS | NFSD | SOCK | ALL ，其代表的含义如下：
+
+
+DEV显示网络接口信息。
+EDEV显示关于网络错误的统计数据。
+NFS统计活动的NFS客户端的信息。
+NFSD统计NFS服务器的信息
+SOCK显示套接字信息
+ALL显示所有5个开关。
+sar 安裝（System Activity Report）
+
+开启系统信息记录
+1）Debian / Ubuntu Linux 將 sar 包放在 sysstat 套件裡面。
+apt-get install sysstat
+数据报表存放在/var/log/sysstat(二进制文件，不是文本格式，more，cat，vi无法查看)，用sar查看
+2）vim /etc/default/sysstat # 啟用
+ENABLED="false"
+改成
+ENABLED="true"
+3）vim /etc/cron.d/sysstat # 預設 10分鐘記錄一次
+5-55/10 * * * * root command -v debian-sa1 > /dev/null && debian-sa1 1 1
+改成 (5分鐘記錄一次)
+*/5 * * * * root command -v debian-sa1 > /dev/null && debian-sa1 1 1
+4）service sysstat restart
+-A：所有报告的总和
+-u：输出CPU使用情况的统计信息
+-v：输出inode、文件和其他内核表的统计信息（dentunusd（dentry（目录项）-unused）：目前高速缓存中未被使用的条目数量；file-nr：文件句柄file handle的使用数量；inode-nr：索引节点句柄inode handle的使用数量）
+-d：输出每一个块设备的活动信息
+-r：输出内存和交换空间的统计信息
+-b：显示I/O和传送速率的统计信息
+-a：文件读写情况
+-q：输出进程统计信息，平均负载状态
+-R：输出内存页面的统计信息
+-y：终端设备活动情况
+-w：输出系统交换活动信息
+
+2.使用watch命令（默认2s执行一次），配合ifconfig、more /proc/net/dev、cat /proc/net/dev来实时监控。比如执行 watch -n 1 "ifconfig eth0"  #-n 1表示一秒执行一次ifconfig eth0
+
+
+三-四、策略路由，ip rule和ip route
+
+ip rule 设置使用哪些路由表，设置表生效或失效；
+ip route设置路由表里面具体路由规则，编辑表，新建删除表，表命名。
+https://blog.csdn.net/u012758088/article/details/76255543
+常用命令：
+ip rule:显示路由规则，当前使用的路由表
+ip rule add from 192.168.1.0/24 table 1 :来自192.168.1.0/24段的数据走路由表1
+ip rule add from 192.168.2.0/24 table 2 prio 10:来自192.168.2.0/24段的数据走路由表2，优先级字段为10；
+ip rule del table 1：删除表1
+ip route show table 1:显示表1内容，未设置为空
+
+14002：ip rule add from all to 52.205.158.187 lookup jp #添加from all去往 52.205.158.187目的IP的数据都走jp路由表
+ip rule add fwmark 1 table 1 #标记为1的数据包走table 1
+root@zrjdebian:~# ip rule add fwmark 1 table 1 
+root@zrjdebian:~# ip rule
+0:	from all lookup local 
+32758:	from all fwmark 0x1 lookup 1 
+
+ip rule add from all fwmark 1 table 1 #添加的效果一样，ip rule add from/to/ IP table 1# 来自或去往IP的数据走table 1，from表示源地址，to表示目的地址
+ip rule add from 10.249.40.219 to 192.168.65.1 table 1 #来自10.249.40.219去往192.168.65.1的数据包走table 1
+ip rule add fwmark 2 table 1 #标记为2的数据走table 1
+
+（路由表里一般应该包含一条默认路由，default，非指定的ip网域走默认default路由？？？？？有待验证）
+
+ 
+wb.zhangrijun@impression-ap01-14008:~$ ip route show table jp
+default via 120.29.149.193 dev bond1  src 120.29.149.214 
+#bond1有多个IP，后面的src指定了对于主机产生的网络包的源ip为120.29.149.214 ；这个设定只对该host产生的包有影响，对于路由外来包，由于外来包已经带有了一个源ip，所以src参数设置不会对其有影响，除非用nat去改变它。
+ip rule add from 193.233.7.83 nat 192.203.80.144 table 1 prio 320 把源地址为193.233.7.83的数据报的源地址转换为192.203.80.144，并通过表1进行路由 
+
+
+route -n中，显示的Flags
+Flags：總共有多個旗標，代表的意義如下：
+U (route is up)：該路由是啟動的；
+H (target is a host)：目標是一部主機 (IP) 而非網域；
+G (use gateway)：需要透過外部的主機 (gateway) 來轉遞封包；
+
+[root@www ~]# ip route [add|del] [IP或網域] [via gateway] [dev 裝置]
+選項與參數：
+show ：單純的顯示出路由表，也可以使用 list ；
+add|del ：增加 (add) 或刪除 (del) 路由的意思。
+    IP或網域：可使用 192.168.50.0/24 之類的網域或者是單純的 IP ；
+    via     ：從那個 gateway 出去，不一定需要；
+    dev     ：由那個裝置連出去，這就需要
+    mtu     ：可以額外的設定 MTU 的數值
+
+ip route add 192.168.5.0/24 dev eth0
+ip route add 192.168.5.0/24 dev eth0 table 1 #将这条路由策略添加到table 1中，table 1也可以接在add后面。
+# 針對本機直接溝通的網域設定好路由，不需要透過外部的路由器
+[root@www ~]# ip route show
+192.168.5.0/24 dev eth0  scope link
+添加可以通往外部的路由：
+ip route add 192.168.10.0/24 via 192.168.5.100 dev eth0
+[root@www ~]# ip route show
+192.168.5.0/24 dev eth0  scope link
+....(其他省略)....
+192.168.10.0/24 via 192.168.5.100 dev eth0
+# 因為先前添加有 192.168.5.0/24 的路由存在 (網卡直接聯繫)，
+# 所以才可以將 192.168.10.0/24 的路由丟給 192.168.5.100 
+# 那部主機來幫忙傳遞！與之前提到的 route 指令是一樣的限制！
+如果没有前面的ip route add 192.168.5.0/24 dev eth0，直接添加ip route add 192.168.10.0/24 via 192.168.5.100 dev eth0这一句，会报错SIOCADDRT: Network is unreachable
+
+
+系统三个默认路由表local，main，default；
+main表就是使用route -n所显示的路由内容，使用ip route显示的也是main表里面的内容。正常情况下，配置好网卡的网络设置，就会自动生成main路由表内容。
+来自于192.168.2.0/24网段的数据包，都从eth1接口将数据包送离本机，因此，必须完整编写eth1接口的路由。首先将临近eth1接口的路由填入，告诉系统本机与192.168.1.0/24网段的通信都通过eth1接口来处理，接着填入这个路由表的默认路由.
+ip rule add from 192.168.2.0/24 table 1
+ip route add 192.168.1.0/24 dev eth1 table 1
+ip route add 192.168.1.0/24 via 10.249.40.199 table 1(via后面跟网关路由ip地址，dev后跟设备名)
+ip route add default via 10.249.40.254 table 1
+
+
+以一例子来说明：公司内网要求192.168.0.100 以内的使用 10.0.0.1 网关上网 （电信），其他IP使用 20.0.0.1 （网通）上网。
+
+首先要在网关服务器上添加一个默认路由，当然这个指向是绝大多数的IP的出口网关：ip route add default gw 20.0.0.1
+之后通过 ip route 添加一个路由表：ip route add table 3 via 10.0.0.1 dev ethX (ethx 是 10.0.0.1 所在的网卡, 3 是路由表的编号)
+之后添加 ip rule 规则：ip rule add fwmark 3 table 3 （fwmark 3 是标记，table 3 是路由表3 上边。 意思就是凡是标记了 3 的数据使用 table3 路由表）
+之后使用 iptables 给相应的数据打上标记：iptables -A PREROUTING -t mangle -i eth0 -s 192.168.0.1 - 192.168.0.100 -j MARK --set-mark 3
+因为 mangle 的处理是优先于 nat 和 fiter 表的，所以在数据包到达之后先打上标记，之后再通过 ip rule 规则，对应的数据包使用相应的路由表进行路由，最后读取路由表信息，将数据包送出网关。
+
+
+ip route get -- 获得单个路由 
+
+使用这个命令可以获得到达目的地址的一个路由以及它的确切内容。
+ip route get命令和ip route show命令执行的操作是不同的。ip route show命令只是显示现有的路由，而ip route get命令在必要时会派生出新的路由。
+
+
+
+
+三-四-一、netstat
+1.加上『 -n 』這個參數的，因為可以避過主機名稱與服務名稱的反查，直接以 IP 及埠口號碼 (port number) 來顯示，顯示的速度上會快很多。
+
+Proto：該連線的封包協定，主要為 TCP/UDP 等封包；
+Recv-Q：非由使用者程式連接所複製而來的總 bytes 數；
+Send-Q：由遠端主機所傳送而來，但不具有 ACK 標誌的總 bytes 數， 意指主動連線 SYN 或其他標誌的封包所佔的 bytes 數；
+Local Address：本地端的位址，可以是 IP (-n 參數存在時)， 也可以是完整的主機名稱。使用的格是就是『 IP:port 』只是 IP 的格式有 IPv4 及 IPv6 的差異。 如上所示，在 port 22 的介面中，使用的 :::22 就是針對 IPv6 的顯示，事實上他就相同於 0.0.0.0:22 的意思。 至於 port 25 僅針對 lo 介面開放，意指 Internet 基本上是無法連接到我本機的 25 埠口啦！
+Foreign Address：遠端的主機 IP 與 port number
+stat：狀態列，主要的狀態含有：
+ESTABLISED：已建立連線的狀態；
+SYN_SENT：發出主動連線 (SYN 標誌) 的連線封包；
+SYN_RECV：接收到一個要求連線的主動連線封包；
+FIN_WAIT1：該插槽服務(socket)已中斷，該連線正在斷線當中；
+FIN_WAIT2：該連線已掛斷，但正在等待對方主機回應斷線確認的封包；
+TIME_WAIT：該連線已掛斷，但 socket 還在網路上等待結束；
+LISTEN：通常用在服務的監聽 port ！可使用『 -l 』參數查閱。
+LAST-ACK： 等待原来的发向远程TCP的连接中断请求的确认
+
+通过netstat统计当前tcp 各种状态的连接
+root@zrj-debian:~/test# netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
+ESTABLISHED 1
+
+
+
+root@zrjdebian:~/test/learngit# netstat -atunp
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN      800/mysqld          
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      606/sshd            
+tcp        0     52 192.168.65.132:22       192.168.65.1:51936      ESTABLISHED 1808/sshd: root@pts 
+tcp        0      0 10.249.40.199:22        10.249.40.219:51984     ESTABLISHED 1856/sshd: root@pts 
+tcp6       0      0 :::4299                 :::*                    LISTEN      662/apache2         
+tcp6       0      0 :::80                   :::*                    LISTEN      662/apache2         
+tcp6       0      0 :::22                   :::*                    LISTEN      606/sshd            
+udp        0      0 0.0.0.0:1900            0.0.0.0:*                           600/minissdpd       
+udp        0      0 0.0.0.0:59062           0.0.0.0:*                           346/avahi-daemon: r 
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           346/avahi-daemon: r 
+udp6       0      0 :::42909                :::*                                346/avahi-daemon: r 
+udp6       0      0 :::5353                 :::*                                346/avahi-daemon: r 
+
+
+tcp        0     52 192.168.65.132:22       192.168.65.1:51936      ESTABLISHED 1808/sshd: root@pts  #client端随机取一个大于1024的端口进行连接，可根据pid（此时为1808）数字用kill来断开连接。
+服務名稱與 port number的對應：/etc/services
+
+systemctl list--units --all | grep acahi-daemon #可以使用systemctl查找出avahi-daemon相关的服务，之后通过stop，restart等对服务进行相应操作。
+root@zrjdebian:/etc/systemd/system# systemctl list-units --all | grep avahi-daemon
+  avahi-daemon.service                                                                loaded    active   running   Avahi mDNS/DNS-SD Stack                                                                                          
+  avahi-daemon.socket                                                                 loaded    active   running   Avahi mDNS/DNS-SD Stack Activation Socket 
+
+
+
+2.host,dig,nslookup 163.com解析ip，dns工具安装：apt-get install dnsutils，安装nslookup和dig工具。
+nslookup ：可以用來收集一部主機的相關資訊；
+dig：可以用來收集詳細的主機資訊；
+whois ：可以用來收集詳盡的 DNS 主機資訊。
+host 則較為簡單 
+
+3.任意啟動 TCP/UDP 封包的埠口連線： nc, netcat（端口功能像telnet）
+這個 nc 指令可以用來作為某些服務的檢測，連接到某個 port 來進行溝通，此外，還可以自行啟動一個 port 來傾聽其他用戶的連線。
+（端口探测异常）UDP 检测方法
+udp：服务端 nc -ul -p 1080     ###启动监听1080端口
+     客户端nc 服务端ip 1080，建立连接后可以通信，两端可以收到互相输入的内容
+tcp：服务端 nc -l -p 1080
+客户端 nc 192.168.65.132 1080，建立连接，能收到两端输入的信息
+或者使用telnet 192.168.65.132 1080，建立连接，也可实现输入输出。
+常用参数：
+-l：用于指定nc将处于侦听模式。指定该参数，则意味着nc被当作server，侦听并接受连接，而非向其它地址发起连接。
+-p <port>：暂未用到（老版本的nc可能需要在端口号前加-p参数，下面测试环境是centos6.6，nc版本是nc-1.84，未用到-p参数）
+-s ：指定发送数据的源IP地址，适用于多网卡机 
+-u：指定nc使用UDP协议，默认为TCP
+-v：输出交互或出错信息，新手调试时尤为有用
+-w：超时秒数，后面跟数字 
+-z：表示zero，表示扫描时不发送任何数据
+
+
+
+
+4.文字界面封包撷取器：tcpdump
+[root@www ~]# tcpdump [-AennqX] [-i 介面] [-w 儲存檔名] [-c 次數] \
+                      [-r 檔案] [所欲擷取的封包資料格式]
+選項與參數：
+-A ：封包的內容以 ASCII 顯示，通常用來捉取 WWW 的網頁封包資料。
+-e ：使用資料連接層 (OSI 第二層) 的 MAC 封包資料來顯示；
+-nn：直接以 IP 及 port number 顯示，而非主機名與服務名稱
+-q ：僅列出較為簡短的封包資訊，每一行的內容比較精簡
+-X ：可以列出十六進位 (hex) 以及 ASCII 的封包內容，對於監聽封包內容很有用
+-i ：後面接要『監聽』的網路介面，例如 eth0, lo, ppp0 等等的介面；
+-w ：如果要將監聽所得的封包資料儲存下來，用這個參數就對了！後面接檔名
+-r ：從後面接的檔案將封包資料讀出來。那個『檔案』是已經存在的檔案，
+     並且這個『檔案』是由 -w 所製作出來的。
+-c ：監聽的封包數，如果沒有這個參數， tcpdump 會持續不斷的監聽，
+     直到使用者輸入 [ctrl]-c 為止。
+所欲擷取的封包資料格式：我們可以專門針對某些通訊協定或者是 IP 來源進行封包擷取，
+     那就可以簡化輸出的結果，並取得最有用的資訊。常見的表示方法有：
+     'host foo', 'host 127.0.0.1' ：針對單部主機來進行封包擷取
+     'net 192.168' ：針對某個網域來進行封包的擷取；
+     'src host 127.0.0.1' 'dst net 192.168'：同時加上來源(src)或目標(dst)限制
+     'tcp port 21'：還可以針對通訊協定偵測，如 tcp, udp, arp, ether 等
+     還可以利用 and 與 or 來進行封包資料的整合顯示
+
+[root@www ~]# tcpdump -i eth0 -nn port 21只取出port21的连线封包
+如何使用 tcpdump 監聽 (1)來自 eth0 介面卡且 (2)通訊協定為 port 22 ，(3)封包來源為 192.168.1.101 的封包資料？
+答：
+tcpdump -i eth0 -nn 'port 22 and src host 192.168.1.101'
+
+5.nmap 觀察本身系統網路埠口
+nmap 軟體說明之名稱為：『Network exploration tool and security / port scanner』
+
+[root@cloud ~]# nmap [掃瞄類型] [掃瞄參數] [hosts 位址與範圍]
+選項與參數：
+[掃瞄類型]：主要的掃瞄類型有底下幾種：
+    -sT：掃瞄 TCP 封包已建立的連線 connect() ！
+    -sS：掃瞄 TCP 封包帶有 SYN 標籤的資料
+    -sP：以 ping 的方式進行掃瞄
+    -sU：以 UDP 的封包格式進行掃瞄
+    -sO：以 IP 的協定 (protocol) 進行主機的掃瞄
+[掃瞄參數]：主要的掃瞄參數有幾種：
+    -PT：使用 TCP 裡頭的 ping 的方式來進行掃瞄，可以獲知目前有幾部電腦存活(較常用)
+    -PI：使用實際的 ping (帶有 ICMP 封包的) 來進行掃瞄
+    -p ：這個是 port range ，例如 1024-, 80-1023, 30000-60000 等等的使用方式
+    -TN：指定延遲時間，可透過類似 -T4 來加快偵測速度 (約 4ms)，效能會較好。
+[Hosts 位址與範圍]：這個有趣多了，有幾種類似的類型
+    192.168.1.100  ：直接寫入 HOST IP 而已，僅檢查一部；
+    192.168.1.0/24 ：為 C Class 的型態，
+    192.168.*.*　　：則變為 B Class，掃瞄的範圍變廣
+    192.168.1.0-50,60-100,103,200 ：這種是變形的主機範圍
+
+nmap 192.168.8.1-100    扫描ip1-100  开放的所有端口
+
+三-四-二、debian防火墙iptables
+显示当前防火墙规则：iptables -L；iptables -L -v可显示进出方向详细信息；
+-Z：清空规则链中的数据包计算器和字节计数器；
+-F [chain]		Delete all rules in  chain or all chains
+-X [chain]		Delete a user-defined chain
+以上参数实现清除防火墙所有规则，但是不会改变预设的政策（policy），所以当预设INPUT为DROP时，执行清除指令会把远程连接挡在外面，导致连接中断。
+ 当封包不在设定的规则之内时，则该封包的通过与否，是以Policy的设定为准
+iptables-save > /root/test/firewall/iptables.conf将现有规则保存到iptables.conf
+iptables-restore < /root/test/firewall/iptables.conf从iptables.conf恢复防火墙规则
+重启后加载防火墙：在/etc/network/if-pre-up.d/目录下，新建可执行文件iptables，该目录下的可执行文件在重启过程中被执行；
+#!/bin/bash
+/sbin/iptables-restore < /root/test/firewall/iptables.conf
+即可在每次重启后把iptables.conf的规则恢复。
+
+
+iptables 至少就有三個表格，包括管理本機進出的 filter 、管理後端主機 (防火牆內部的其他電腦) 的 nat 、管理特殊旗標使用的 mangle (較少使用)
+iptables-save列出完整的防火墙规则：
+# Generated by iptables-save v1.6.0 on Thu Dec  6 16:10:51 2018
+*mangle
+:PREROUTING ACCEPT [10176:1881065]
+:INPUT ACCEPT [3239:596021]
+:FORWARD ACCEPT [0:0]
+:OUTPUT ACCEPT [239:22466]
+:POSTROUTING ACCEPT [239:22466]
+COMMIT
+# Completed on Thu Dec  6 16:10:51 2018
+# Generated by iptables-save v1.6.0 on Thu Dec  6 16:10:51 2018
+*nat
+:PREROUTING ACCEPT [9599:1779006]
+:INPUT ACCEPT [345:64624]
+:OUTPUT ACCEPT [48:3354]
+:POSTROUTING ACCEPT [48:3354]
+COMMIT
+# Completed on Thu Dec  6 16:10:51 2018
+# Generated by iptables-save v1.6.0 on Thu Dec  6 16:10:51 2018
+*filter                               <==星号开头的指的是表格，这里为filter 
+:INPUT DROP [21724:4442149]           <==冒号开头的指的是链，三条内建的链
+:FORWARD ACCEPT [0:0]
+:OUTPUT ACCEPT [9142:686915]          <= =三条内建链中forward和output政策都是ACCEPT，input为DROP
+
+iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-ports 4299
+将访问80端口的连接重定向到4299
+-t:table（filter，net，mangle）
+-j:target（ACCEPT，DROP，REDIRECT，REJECT）
+
+
+防火墙针对ping(icmp协议)限制：
+ICMP常用类型：0（Echo Reply (代表一個回應信息)）；8（Echo Request (請求回應訊息)）
+iptables -I INPUT -p icmp --icmp-type 0 -j DROP ####拒绝icmp请求封包，此时主机无法ping外部，外部可以ping主机
+iptables -I INPUT -p icmp --icmp-type 8 -j DROP ####拒绝回应icmp请求，此时主机可以ping外部，外面无法ping主机
+
+
+1.ipset是 Linux 防火墙iptables的一个伴随工具。 除了其他众多功能，它允许你建立规则来轻松愉快地屏蔽一组IP地址。
+
+安装
+aptitude install ipset
+屏蔽一组地址
+先创建一个新的网络地址的“集合”。下面的命令创建了一个新的叫做“myset”的“net”网络地址的“hash”集合。 
+# ipset create myset hash:net
+把你希望屏蔽的IP地址添加到集合中。
+# ipset add myset 14.144.0.0/12
+# ipset add myset 27.8.0.0/13
+# ipset add myset 58.16.0.0/15
+最后，配置iptables来屏蔽这个集合中的所有地址。这个命令将会向“INPUT”链顶端添加一个规则来从ipset中“-m”匹配名为“myset”的集合，当匹配到的包是一个“src”包时，“DROP”屏蔽掉它。 
+# iptables -I INPUT -m set --match-set myset src -j DROP
+
+使ipset持久化
+你创建的ipse存在于内存中，重启后将会消失。要使ipset持久化，你要这样做：
+首先把ipset保存到/etc/ipset.conf:
+# ipset save > /etc/ipset.conf
+然后启用 ipset
+## ipset restore < /etc/ipset.conf
+
+创建集合和规则时，重复restore会报错，需要在add 后面添加-exit参数,可以不断刷新加载。
+#create -exist console_list hash:ip,port family inet hashsize 1025 maxelem 65536
+#add -exist console_list 1.1.1.1,80
+
+其实，iptables与firewalld都不是真正的防火墙，它们都只是用来定义防火墙策略的防火墙管理工具而已，或者说，它们只是一种服务。iptables服务会把配置好的防火墙策略交由内核层面的netfilter网络过滤器来处理，而firewalld服务则是把配置好的防火墙策略交由内核层面的nftables包过滤框架来处理。换句话说，当前在Linux系统中其实存在多个防火墙管理工具，旨在方便运维人员管理Linux系统中的防火墙策略。
+Netfilter，在Linux内核中的一个软件框架，用于管理网络数据包。不仅具有网络地址转换（NAT）的功能，也具备数据包内容修改、以及数据包过滤等防火墙功能。利用运作于用户空间的应用软件，如iptables、ebtables和arptables等，来控制Netfilter，系统管理者可以管理通过Linux操作系统的各种网络数据包。
+基于nftables的nft，pathn在用 ，性能更高，debian10防火墙开始基于nftables。
+
+
+
+三-四-三、NAT的实现
+可以使用 iptables nat 表来实现网络地址转换（NAT）。NAT 包括 SNAT （源地址转换）和 DNAT （目的地址转换）。两者的区别在于做地址转换是在路由前还是路由后：
+（1）SNAT：路由 - 转换 - 发出
+
+数据经过时, 源地址发生改变，目的地址不变。SNAT 的具体数据流向：
+1.封包先经过 PREROUTING，检查目的 IP 是不是本网段的地址。是的话，走filter表的INPUT。
+2.如果不是，则开始查询路由表，查找到相应路由条目后（查找路由的过程在 PREROUTING 和 FORWARD 之间），经过 FORWARD 链进行转发，再通过 postrouting 时进行NAT转换。
+从这里可以看出，SNAT转换的步骤在 POSTROUTING 链上实现， PREROUTING 只是用来做路由选择。因此，要做 SNAT 的话，需要添加 POSTROUTING 规则，使用 “-j SNAT -to-source”。比如：
+iptables -t nat -A POSTROUTING -s 192.168.252.0/24 -j SNAT --to-source 100.100.100.1
+
+（2）DNAT：转换 - 路由- 发出
+DNAT 的功能正好和 SNAT 相反，源地址不变，目的地址发生改变。DNAT 可以用作 PNAT，可以将一个 IP 的端口转换成另一个IP的另外一个端口号，经常用于内网服务器映射到公网，用来隐藏服务器的真实地址。DNAT 的具体数据流向：
+1.在 DNAT 中，NAT 是在 PREROUTING 上做的。在数据进入主机后，路由选择过程是在 PREROUTING 和 FORWARD 之间的，所以应该先做地址转换之后，再进行路由选择，而后经过 FORWARD，最后从 POSTROUTING 出去。
+2.因此，要做 DNAT，需要添加 PREROUTING 规则，使用 “-j DNAT --to-destination”。比如：
+iptables -t nat -A PREROUTING -d 100.100.100.1 -p tcp --dport 80 -j DNAT --to-destination 192.168.252.1
+
+
+（3）ip分享（路由器功能）
+nat伺服器：
+iptables -A INPUT -i $INIF -j ACCEPT
+# 這一行為非必要的，主要的目的是讓內網 LAN 能夠完全的使用 NAT 伺服器資源。
+# 其中 $INIF 在本例中為 eth1（内网）介面
+echo "1" > /proc/sys/net/ipv4/ip_forward
+# 上頭這一行則是在讓你的 Linux 具有 router 的能力
+iptables -t nat -A POSTROUTING -s $innet -o $EXTIF -j MASQUERADE
+# 加入 nat table 封包偽裝！本例中 $innet 是 192.168.100.0/24
+# 而 $EXTIF 則是對外介面，本例中為 eth0 
+
+
+例題：
+假設對外的 IP 固定為 192.168.1.100 ，若不想使用偽裝，該如何處理？
+答：
+iptables -t nat -A POSTROUTING -o eth0 -j SNAT --to-source 192.168.1.100
+
+假設你的 NAT 伺服器對外 IP 有好幾個，那你想要輪流使用不同的 IP 時，又該如何設定？舉例來說，你的 IP 範圍為 192.168.1.210~192.168.1.220
+答：
+iptables -t nat -A POSTROUTING -o eth0 -j SNAT --to-source 192.168.1.210-192.168.1.220
+
+（4）伺服器dnat设定
+假設內網有部主機 IP 為 192.168.100.10 ，該主機是可對 Internet 開放的 WWW 伺服器。你該如何透過 NAT 機制，將 WWW 封包傳到該主機上？
+答：
+假設 public IP 所在的介面為 eth0 ，那麼你的規則就是：
+iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j DNAT --to-destination 192.168.100.10:80
+
+
+三-五、vi多行操作
+
+删除：处于命令模式时，（dG将光标所在行以下的行删除;d1G将光标到第一行删除；这两个操作很猛）
+:1 d(删除第一行)
+:1,10d(删除第一到第十行)
+:set nu显示行号，获取行号可大批量删除连续的行。
+光标模式，dd删除光标所在行，Ndd删除光标所在行以及往下N行
+复制：光标位置yy复制当前行，p粘贴；Nyy复制当前行往下N行。
+命令行模式下输入
+6,9 co 12
+复制第6行到第9行之间的内容到第12行后面。
+剪切：
+dd：剪切光标所处当前行
+n + dd：剪切光标所在行及以下共 n 行
+按 p 粘贴在光标所在行
+
+螢幕上僅列出 /etc/man_db.conf 的第 11 到第 20 行，且有行號存在？
+答：
+我們可以透過 cat -n 來帶出行號，然後再透過 head/tail 來擷取資料即可！所以就變成如下的模樣了：
+cat -n /etc/man_db.conf | head -n 20 | tail -n 10
+cat：concatenate(连续的)
+/string #向后搜索字符串内容
+？string #向前搜索
+:r filename #在光标下读入filename的文件内容
+
+vi中替换：
+:s/ab/cd/ #替换光标当前行的第一个ab为cd；
+:s/ab/cd/g #替换当前行所有的ab为cd
+:2s/ab/cd/ #替换指定行（第二行）的ab为cd
+:%s/ab/cd/g ##%表示替换所有行的ab为cd，不带%只替换光标当前行，不带g则替换每行的第一个；
+
+实用样例：添加和取消注释符
+10-20行添加#：
+:10,20s/^/#/g
+在10 - 20行删除 # 注释
+:10,20s/^#//g
+
+shell里面多行注销：
+<<'COMMENT'
+注释行1
+注释行2
+注释行3
+COMMENT
+其中COMMENT可以自定义，也可以是空格，为避免出错，一般不用空格。
+
+设置自动缩进：set ai(autoindent);取消set noai
+并排打开两个文件：vi -o f1 f2 #上下打开两个文件，ctrl+w,方向键切换光标；vi -O f1 f2#左右并排打开
+
+三-五-零、 nano多行操作：
+
+复制，粘贴，剪切：
+ctrl+6标记文件开头，移动光标选择文本块（反白显示），ctrl+k剪切，ctrl+u原地复制，之后光标可以移动到需要粘贴的地方，反复ctrl+u。（暂时没找到只是复制的操作，不需要cut的情况下）
+
+三-五-零-零、dd文件复制和转换：
+
+dd if=/dev/zero of=user_id  bs=1M count=100 #if输入文件，of输出文件，bs每块大小，count（copy only N input blocks），生成100M的空文件user_id
+seq 1000000 | xargs -i dd if=/dev/zero of={}.dat bs=1024 count=1 #批量生成1000000个1k大小的空文件，会快速耗尽文件系统inode；
+建议在一个空文件夹内生成，不然利用rm -rf *.bat无法删除，会显示-bash: /bin/rm: Argument list too long，可通过删除文件夹删除。
+或者可以用xargs来做：find . -name '*.bat' -print | xargs rm 
+##借助 xargs，并利用管道的特性，find 命令将输出的内容分段传给 rm 命令，而不是一股脑儿地塞过去。这样一来，rm 命令可以先处理最先获取的一部分文件，然后再处理下一批，并一直继续下去，直到全部删除为止。
+
+
+$ dd if=/dev/zero    of=5kb.file bs=1k count=5 ##5KB的全零数据
+$ dd if=/dev/urandom of=7mb.file bs=1M count=7 ##7MB的随机数据
+$ touch zero.file                              ##如果文件已存在，mtime会被更新，长度内容不变     
+$ : > alwayszero.file                          ##如果文件之前存在，mtime会被更新，内容清零   
+
+擦除整块硬盘：
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/irandom of=/dev/sda
+shred -v -n 1 /dev/sda   ##随机数据重写擦除所有数据
+
+拷贝文件时，排除某些不需要的文件：
+1）使用xargs来做：
+　　ls /tmp/test/ |grep -v .gz |xargs -i cp -r /tmp/test/{} /tmp/test_cp
+2）使用find＋cpio的方式：
+　　find /tmp/test/ |grep -v .gz |cpio -pdm /tmp/test_cp/
+3) 使用rsync来做：
+　　rsync -avp --exclude=.test1/ /tmp/test/  /tmp/test_cp/ ##将/tmp/test下除了test1这个文件夹，其他文件同步到/tmp/test_cp这个文件夹下
+
+三-五-零-一、split文件分割
+split [-b ][-C ][-][-l ][要切割的文件][输出文件名前缀][-a ]
+-b,字节，可以指定K，M，G，T为单位；
+-d选项来指定数字形式的文件后缀；
+-数字，按照行数拆分文件
+split -d -10 /etc/passwd my_passwd_ ##以10行分割，数字有后缀：
+root@zrj-debian:~/test/log# split -d -10 /etc/passwd my_passwd_
+root@zrj-debian:~/test/log# ll
+total 36
+drwxr-xr-x  2 root root 4096 Dec 18 15:51 .
+drwxr-xr-x 15 root root 4096 Dec 18 11:43 ..
+-rw-r--r--  1 root root  424 Dec 18 15:51 my_passwd_00
+-rw-r--r--  1 root root  622 Dec 18 15:51 my_passwd_01
+-rw-r--r--  1 root root  571 Dec 18 15:51 my_passwd_02
+-rw-r--r--  1 root root  588 Dec 18 15:51 my_passwd_03
+-rw-r--r--  1 root root  181 Dec 18 15:51 my_passwd_04
+用cat合并文件 
+cat my_passwd_0* >my_passwd ##可以通过对比md5确认文件是否一致，md5sum /etc/passwd
+
+
+
+三-五-一、shell
+
+（一）、Shell中的>/dev/null 2>&1 与 2>&1 >/dev/null 与&>/dev/null 的区别
+命令的结果可以通过“&>”的形式来定向输出，&指向文件描述符：0为标准输入；1为标准输出stdout、2为标准错误stderr。系统默认&值是1，也就是“1>”，而1>可以简写为>，也就是默认为>。stdout的默认目标是终端，stderr的默认目标为也是终端，标准输入0和标准输出1可以省略。（当其出现重定向符号左侧时）
+
+>/dev/null 2>&1 #表示标准输出和标准错误输出到重定向到/dev/null中，此时屏幕无输出，即命令执行的输出在屏幕无体现，也不会保存到文件中去。
+root@zrjdebian:~/test# decho "1"d  > /root/test/1.txt >/dev/null 2>&1  #decho为错误指令，但执行后1.txt不会保存-bash: decho: command not found的提示
+
+2>&1 >/dev/null  #表示标准的输出会被重定向到/dev/null中，而标准错误输出重定向到&1，屏幕会有打印，信息可以保存到文件中.
+root@zrjdebian:~/test# decho "1"d  > /root/test/1.txt 2>&1  >/dev/null
+root@zrjdebian:~/test# more 1.txt 
+-bash: decho: command not found  #错误的输出能保存，标准的输出丢掉。
+
+&>/dev/null #跟第一种写法作用一样，1，2的输出都丢掉。
+2>&1 #标准错误输出重定向到1，打印输出，所有输出都可以保存到文件
+
+(一-一)、局部变量和环境变量：
+基本上，由原本的bash衍生处理的程序都为该bash的子程序，而bash可以执行bash产生一只bash的子程序，两只bash之间仅有全局变量（环境变量）会带给子程序，而子程序的变量，基本上不会回传给父程序。
+
+變數是有使用範圍的，一般來說變數的使用範圍分為：
+區域變數：變數只能在目前這個 shell 當中存在，不會被子程序所沿用
+全域變數：變數會儲存在一個共用的記憶體空間，可以讓子程序繼承使用。
+
+
+
+（二）、 Shell script 的預設變數($0, $1...)
+/path/to/scriptname  opt1  opt2  opt3  opt4 
+       $0             $1    $2    $3    $4
+$0:为脚本档名
+$1:为第一个参数，$2，$3，$4以此类推；
+$# ：代表後接的參數『個數』，以上表為例這裡顯示為『 4 』；
+"$@" ：代表『 "$1" "$2" "$3" "$4" 』之意，每個變數是獨立的(用雙引號括起來)；
+
+$的的变量赋值：将操作语句的结果赋值到=号左边变量。
+name=$(grep ":80" netstat_checking.txt) #将grep的结果赋值给变量name，不需要保存到文件，直接使用变量来调用grep的结果
+
+cut -d ':' -f1 /etc/passwd #将/etc/passwd文件里面每行以“：”为分隔符，-f1表示将第一列内容输出，-f3表示输出第三列内容；-d（delimiter分隔符，定界符）后面跟分隔符。
+cut只能以一个字符作为分隔符，不支持多个空格分隔，多个空格可以使用awk。
+root@zrj-debian:~/test/learngit# cut -d'' -f1 test
+cut: the delimiter must be a single character
+
+users=$(cut -d ':' -f1 /etc/passwd)    # 擷取帳號名稱
+awk -F":" '{print $1}'  /etc/passwd  #-F指定分隔符为：输出第一列的数据
+
+(三)、我们在 shell 下跑的每一个 command 或 function， 在结束的时候都会传回父进程一个值，称为 return value。
+在 shell command line 中可用$?， 这个变量得到最 "新" 的一个return value， 也就是刚刚结束的那个进程传回的值。
+Return Value(RV) 的取值为 0-255 之间， 由进程或者 script 的作者自行定义：
+若在 script 里，用 exit RV 来指定其值; 若没有指定, 在结束时，以最后一个命令的 RV，为 script 的 RV 值。
+若在 function 里，则用 return RV 来代替 exit RV 即可。
+Return Value的作用：用来判断进程的退出状态 (exit status)。 进程的退出状态有两种：
+0 值为 "真"(true)
+非 0 值为 "假"(false)   ehco $?显示当前返回值，通过这个去取上一步指令返回值。
+
+（四）&& 与 || 都是用来 "组建" 多个 command line 用的:
+command1 && command2 # command2 只有在 command1 的 RV(return value) 为 0(true) 的条件下执行。
+command1 || command2 # command2 只有在 command1 的 RV 为非 0(false) 的条件下执行。
+
+root@zrj-debian:~/test/shell# cd /root/test/learngit/ || ll  #进入到learngit目录，但后面的ll命令不执行
+root@zrj-debian:~/test/learngit# cd /root/test/shell/ && ll  #进入到shell目录，并执行ll命令
+total 28
+drwxr-xr-x 3 root root 4096 Feb 15 16:44 .
+drwxr-xr-x 5 root root 4096 Feb 14 11:52 ..
+-rw-r--r-- 1 root root    0 Feb 15 16:44 1
+drwxrwxr-x 2 zrj  zrj  4096 Jul 17  2015 bin
+-rwxr-xr-x 1 root root 5533 Feb 15 10:13 scripts-20150717.tar.bz2
+-rw-r--r-- 1 root root 1316 Feb 15 16:41 test1.txt
+-rw-r--r-- 1 root root 1316 Feb 15 16:41 test2
+root@zrj-debian:~/test/shell# 
+
+短路与，cmd1 && cmd2，如果cmd1返回true，则执行cmd2（如果cmd1返回false，&&运算结果已经确定为false，没必要去看cmd2的返回值）；短路或，cmd1 || cmd2，如果cmd返回false，则执行cmd2（如果cmd1返回true，则||运算结果也是可以确定为true，cmd2不需要执行）
+root@zrj-debian:~/test/learngit# for((i=1;i<=5;i++));do ping 192.168.65.$i -c1 &>/dev/null && echo " 192.168.65.$i is up" || echo " 192.168.65.$i is down";done
+ 192.168.65.1 is down
+ 192.168.65.2 is up
+ 192.168.65.3 is down
+ 192.168.65.4 is down
+ 192.168.65.5 is down
+#做批量ping操作，检测网络
+#做ping测试时，遇到CTRL+C 无法终止进程，一直运行到i不符合条件才停下：
+通过CTRL + Z解决，将进程挂起，之后通过kill -9清除进程；ctrl+z后进程（暂停状态）可通过jobs查看，fg+%进程序号重新执行。
+
+
+1.用（）进行指令规整执行
+date; cal -3; echo "The following is log" > mylog.txt #mylog.txt里面只保留最后一个指令的输出
+(date; cal -3; echo "The following is log") > mylog.txt #所有指令的输出都保存到mylog.txt
+
+2.bash中test 及 [ 判斷式 ] 確認回傳值：
+test expression
+[ expression ]   #[]两边带有空格。
+
+測試的標誌			代表意義
+1. 關於某個檔名的『檔案類型』判斷，如 test -e filename 表示存在否
+-e			該『檔名』是否存在？(常用)
+-f			該『檔名』是否存在且為檔案(file)？(常用)
+-d			該『檔名』是否存在且為目錄(directory)？(常用)
+-b			該『檔名』是否存在且為一個 block device 裝置？
+-c			該『檔名』是否存在且為一個 character device 裝置？
+-S			該『檔名』是否存在且為一個 Socket 檔案？
+-p			該『檔名』是否存在且為一個 FIFO (pipe) 檔案？
+-L			該『檔名』是否存在且為一個連結檔？
+2. 關於檔案的權限偵測，如 test -r filename 表示可讀否 (但 root 權限常有例外)
+-r			偵測該檔名是否存在且具有『可讀』的權限？
+-w			偵測該檔名是否存在且具有『可寫』的權限？
+-x			偵測該檔名是否存在且具有『可執行』的權限？
+-u			偵測該檔名是否存在且具有『SUID』的屬性？
+-g			偵測該檔名是否存在且具有『SGID』的屬性？
+-k			偵測該檔名是否存在且具有『Sticky bit』的屬性？
+-s			偵測該檔名是否存在且為『非空白檔案』？
+6. 多重條件判定，例如： test -r filename -a -x filename
+-a		(and)兩狀況同時成立！例如 test -r file -a -x file，則 file 同時具有 r 與 x 權限時，才回傳 true。
+-o		(or)兩狀況任何一個成立！例如 test -r file -o -x file，則 file 具有 r 或 x 權限時，就可回傳 true。
+!		反相狀態，如 test ! -x file ，當 file 不具有 x 時，回傳 true
+4. 關於兩個整數之間的判定，例如 test n1 -eq n2
+-eq			兩數值相等 (equal)
+-ne			兩數值不等 (not equal)
+-gt			n1 大於 n2 (greater than)
+-lt			n1 小於 n2 (less than)
+-ge			n1 大於等於 n2 (greater than or equal)
+-le			n1 小於等於 n2 (less than or equal)
+
+########################################################################
+[[  ]]两个中括号中，通过=~匹配对应的正则表达式:
+
+[[ $answer =~ ^([Yy][Ee][Ss]) | [Yy]$ ]] && echo "Let 's go" || echo "bye" 判断answer是否为yes或y（大小写都符合），符合则输出Let 's go，不符合输出bye #"|"前后不带空格，不然报错，同一条正则表达式
+[[ $ip =~ ^([0-9]{1,3}\.){3}[0-9]{1,3}$  ]] && echo this is a IP 判断变量是否符合0.0.0.0的ip格式
+
+[]和[[]]使用区别：
+使用[[]]中时，不能使用-a和-o对多条件进行连接；&&和||可以用于括号内或者括号外
+使用[]时，如果使用-a和-o对多条件进行连接，-a和-o需要包含在[]中；如果是使用&&和||则，需要在[]之外；
+
+
+以 A=123 这个变量为例：
+root@zrj-debian:~/test/shell# [ "$A" = 123 ] && echo 1 || echo 2 #字符串string的比较，与[ $A = "123" ]用法一样。
+1
+root@zrj-debian:~/test/shell# [ "$A" -eq 123 ] && echo 1 || echo 2 #整数比较
+1
+root@zrj-debian:~/test/shell# [ -e "$A" ] && echo 1 || echo 2      #判断文件123是否存在
+2
+
+(四-一)、shell内部命令和外部命令：type command查看指令类型
+内部命令：
+root@zrj-debian:~/test/learngit# type cd
+cd is a shell builtin
+外部命令：
+root@zrj-debian:~/test/learngit# type awk
+awk is /usr/bin/awk
+外部命令会在PATH路径下依次查找对应脚本。
+
+
+3.bash中for循环
+sum=0;for number in `seq 1 2 100`;do let sum+=number;done;echo "the sum is $sum" 计算1+3+5+……+99之和
+for((sum=0,i=1;i<=100;i+=2));do let sum+=i;done;echo "the sum is $sum" ##(双括号写法)
+#let 命令是 BASH 中用于计算的工具，用于执行一个或多个表达式，变量计算中不需要加上 $ 来表示变量。如果表达式中包含了空格或其他特殊字符，则必须引起来。
+
+（五）bash引号
+
+单引号'
+两个单引号包围起来的字符串就是普通的字符串，它将保留原始的字面意思.
+
+双引号"
+两个双引号包围起来的字符串，部分特殊字符将起到它们的作用.
+这些特殊字符有: 美元符$, 反斜杠, 反引号, 感叹号!.
+
+反引号`
+两个反引号包围起来的字符串，将作为命令来运行，
+执行的输出结果作为该反引号的内容，称为命令替换，
+它有另一种更好的写法: $(command)
+1.美元符$在单、双引号中的表现: 在双引号中的$, 将发生变量引用, 而在单引号中的$, 将保留它的字面意思
+root@zrj-debian:~/test# echo '$HOME'
+$HOME
+root@zrj-debian:~/test#  echo "$HOME"
+/root
+2.反斜杠\ 在单、双引号中的表现: 在双引号中的, 将转义它后面的字符，使其具有特殊意义或者失去原来的特殊意义, 在单引号中的, 将保留它的字面意思
+root@zrj-debian:~/test# echo '\$HOME'
+\$HOME
+root@zrj-debian:~/test# echo "\$HOME"
+$HOME
+3.反引号与其他两种引号的不同: 反引号包围起来的字符串将被运行，取其结果
+root@zrj-debian:~/test#  echo 'date'
+date
+root@zrj-debian:~/test# echo "date"
+date
+root@zrj-debian:~/test# echo `date`
+Fri Dec 6 14:42:56 CST 2019
+注: 在反引号中的date被当成命令执行，包含的正是命令的输出信息
+
+特殊点：
+1. "$var", "`command`", 都比$var, `command`安全，涉及换行符时，戴上双引号作保险
+root@zrj-debian:~/test# seq 3
+1
+2
+3
+root@zrj-debian:~/test#  echo `seq 3`
+1 2 3
+root@zrj-debian:~/test#  echo "`seq 3`"  ###保持了原来换行
+1
+2
+3
+root@zrj-debian:~/test# 
+
+
+
+
+三-五-二、文件权限
+acl：access control list
+『 find / -user username 』查出整個系統內屬於 username 的檔案
+1.
+u：User，即文件或目录的拥有者。
+g：Group，即文件或目录的所属群组。
+o：Other，除了文件或目录拥有者或所属群组之外，其他用户皆属于这个范围。
+a：All，即全部的用户，包含拥有者，所属群组以及其他用户。
+
+chmod g-r sum.py 将文件sum.py所有者所在群组原本有的读权限去除；
+chmod o+r sum.py 授予其他用户对sum.py读权限
+chmod u-x sum.py 去除文件所有者的执行权限（对root的文件，去除所有权限后好像不影响root的读写操作）
+同一群组下其他用户如果想要执行权限，需要同时加上读权限，不然无法执行，还是会提示权限不允许：
+-rwx--x---  1 root root   364 Dec 11 10:27 sum.py 同群组下的zrj无法执行sum.py,添加读权限后可以运行：
+zrj@zrjdebian:~$ python sum.py 
+python: can't open file 'sum.py': [Errno 13] Permission denied
+
+2.更改目录所有者命令:
+chown -R 用户名称 目录名称（-R参数使该目录下子目录及文件的所有者同步修改，不加则只修改当前目录的所有者）
+usermod -G将用户zrj添加到test群组里，如果没加-a,则会使zrj离开原来的附加组；一般加-a,使zrj同属多个附加组。usermod -G不会修改用户uid=gid的群组，一般为同名群组。useradd zrj，会同时创建一个gid=uid的群组zrj，同时生成/home/zrj/目录，删除用户时群组及目录一起删除。
+usermod -a -G test zrj将zrj添加到test群组中，此时主组还是zrj，同属于zrj和test这两个附加组。
+
+-g和-G的区别：在于-g会改变zrj的gid，改变主组；-G修改用户所属附加组。
+root@zrjdebian:~/test/udp_echo# usermod -g root zrj
+root@zrjdebian:~/test/udp_echo# id zrj
+uid=1000(zrj) gid=0(root) groups=0(root),1000(zrj) #zrj的主组修改为root，附加组为root和zrj
+root@zrjdebian:~/test/udp_echo# usermod -G root zrj
+root@zrjdebian:~/test/udp_echo# id zrj
+uid=1000(zrj) gid=1000(zrj) groups=1000(zrj),0(root) #zrj的主组没改变，附加组添加root组
+
+chgrp修改文件所属群组：
+chgrp group'name filename ##将filename的群组改为group'name
+
+
+chown zrj:root sum.py将sum.py的所以者改为zrj，所属群组改为root 
+目录的x权限，表示能否进入打开改目录；文件的x权限表示执行权限。
+root@zrj-debian:~/test# ll -d /usr/bin/passwd 
+-rwsr-xr-x 1 root root 59680 May 17  2017 /usr/bin/passwd
+#s权限表示用户可以获取到程序所有者的权限，即一般用户可以通过运行passwd获取到root的权限去修改/etc/shadow（会受到格式的限制，只能修改本身的密码）
+root@zrj-debian:~/test# ll -d /etc/shadow
+-rw-r----- 1 root shadow 1526 Jan 30 14:13 /etc/shadow #只允许root的读写
+
+debian和Ubuntu新版本修改用户密码：echo zrj:112233 | chpasswd #修改密码为112233
+旧版本及Linux下：echo 密码 | passwd --stdin 用户
+
+
+/ (root, 根目錄)：與開機系統有關；
+/usr (unix software resource)：與軟體安裝/執行有關；
+/var (variable)：與系統運作過程有關。
+
+3.usermod
+
+[root@study ~]# usermod [-cdegGlsuLU] username
+選項與參數：
+-c  ：後面接帳號的說明，即 /etc/passwd 第五欄的說明欄，可以加入一些帳號的說明。
+-d  ：後面接帳號的家目錄，即修改 /etc/passwd 的第六欄；
+-e  ：後面接日期，格式是 YYYY-MM-DD 也就是在 /etc/shadow 內的第八個欄位資料啦！
+-f  ：後面接天數，為 shadow 的第七欄位。
+-g  ：後面接初始群組，修改 /etc/passwd 的第四個欄位，亦即是 GID 的欄位！
+-G  ：後面接次要群組，修改這個使用者能夠支援的群組，修改的是 /etc/group 囉～
+-a  ：與 -G 合用，可『增加次要群組的支援』而非『設定』喔！
+-l  ：後面接帳號名稱。亦即是修改帳號名稱， /etc/passwd 的第一欄！
+-s  ：後面接 Shell 的實際檔案，例如 /bin/bash 或 /bin/csh 等等。
+-u  ：後面接 UID 數字啦！即 /etc/passwd 第三欄的資料；
+-L  ：暫時將使用者的密碼凍結，讓他無法登入。其實僅改 /etc/shadow 的密碼欄。
+-U  ：將 /etc/shadow 密碼欄
+
+root@zrjdebian:~# usermod -e 0 zrj  #将zrj的失效日期设置为0（/etc/shadow的第八栏），使账号失效
+root@zrjdebian:~/test/shell# su zrj
+Your account has expired;  please contact your system administrator
+su: Authentication failure
+#在管理员root账号下su还是可以切换到zrj，会提示账号过期，但无法直接用zrj登陆。
+root@zrjdebian:~# chage -E 2019-12-12 zrj #将zrj失效日期设置为2019-12-12
+
+usermod -s /sbin/nologin zrj #修改zrj的shell为/sbin/nologin，此时zrj账号不能用于登录
+
+
+
+4.chage
+[root@study ~]# chage [-ldEImMW] 帳號名
+選項與參數：
+-l ：列出該帳號的詳細密碼參數；
+-d ：後面接日期，修改 shadow 第三欄位(最近一次更改密碼的日期)，格式 YYYY-MM-DD
+-E ：後面接日期，修改 shadow 第八欄位(帳號失效日)，格式 YYYY-MM-DD
+-I ：後面接天數，修改 shadow 第七欄位(密碼失效日期)
+-m ：後面接天數，修改 shadow 第四欄位(密碼最短保留天數)
+-M ：後面接天數，修改 shadow 第五欄位(密碼多久需要進行變更)
+-W ：後面接天數，修改 shadow 第六欄位(密碼過期前警告日期)
+chage -d 0 test ###将test账号的密码强制过期，切换登录时会提示修改密码。
+
+
+visudo：
+zrj    ALL=(ALL:ALL) ALL,!/usr/bin/passwd root #zrj用户可以使用sudo来执行除了/usr/bin/passwd root以外的命令；
+使用者账号  登录的来源主机=（可切换的身份）可以执行的指令
+zrj	ALL=(root)  !/usr/bin/passwd, /usr/bin/passwd [A-Za-z]*, !/usr/bin/passwd root #可以執行『 passwd 任意字元』，但是『 passwd 』與『 passwd root 』這兩個指令例外，这样设置后zrj的sudo只能用于修改其他用户的密码，其他root专属指令无法执行。
+
+5.SUID，SGID
+	
+		二进制文件                       目录
+SUID  	此用户将继承此程序的所有者权限		无意义
+SGID	此用户将继承此程序的所属组权限		此目录下所有用户新建文件都自动继承此目录的用户组
+Sticky	无意义					目录中每个用户仅能删除、移动或改名自己的文件或目录
+
+5.1 SetUID(或者 s 权限）：当一个具有执行权限的文件设置SetUID权限后，用户执行这个文件时将以文件所有者的身份执行。passwd命令具有SetUID权限，所有者为root（Linux中的命令默认所有者都是root），也就是说当普通用户使用passwd更改自己密码的时候，实际在以passwd命令所有者root的身份在执行，root当然可以将密码写入/etc/shadow文件，这个权限伴随着passwd这个进程的进行而存在，命令执行完成后该身份也随之消失。
+root@zrj-debian:~/test/learngit# ll /usr/bin/passwd
+-rwsr-xr-x 1 root root 59680 May 17  2017 /usr/bin/passwd
+SetUID条件：
+必须具备以下几个条件（前提）：
+只有可执行的二进制程序才可以设置SetUID
+所有者必须对欲设置SetUID的文件具备 可执行(x) 权限
+命令执行过程中，其它用户获取所有者的身份（灵魂附体）
+SetUID具有时间限制，即完成该程序执行后就消失
+设置SetUID
+chmod 4xxx < file-name >
+chmod u+s < file-name >
+取消SetUID
+chmod xxx < file-name >
+chmod u-s < file-name >
+5.2 SetGID：设置所属组的特殊权限，
+设置SetGID
+chmod 2xxx 
+chmod g+s
+取消SetGID
+chmod xxx 
+chmod g-s
+5.3 SBIT粘滞位
+只对目录有效
+普通用户对该目录有w和x权限
+若没有粘滞位，则普通用户可以对目录下的文件/子目录进行删除操作（因为普通用户对目录具有w权限），包括其它用户建立的目录/文件；但若赋了SBIT,则普通用户只能删除自己创建的文件/目录，而不能删除不属于自己的文件/目录！
+如/tmp目录
+root@zrj-debian:~/test/learngit# ll -d /tmp
+drwxrwxrwt 13 root root 4096 Apr  3 17:39 /tmp
+
+
+
+
+三-五-三、打包压缩解压
+
+[dmtsai@study ~]$ tar [-z|-j|-J] [cv] [-f 待建立的新檔名] filename... <==打包與壓縮
+[dmtsai@study ~]$ tar [-z|-j|-J] [tv] [-f 既有的 tar檔名]             <==察看檔名
+[dmtsai@study ~]$ tar [-z|-j|-J] [xv] [-f 既有的 tar檔名] [-C 目錄]   <==解壓縮
+選項與參數：
+-c  ：建立打包檔案，可搭配 -v 來察看過程中被打包的檔名(filename)
+-t  ：察看打包檔案的內容含有哪些檔名，重點在察看『檔名』就是了；
+-x  ：解打包或解壓縮的功能，可以搭配 -C (大寫) 在特定目錄解開
+      特別留意的是， -c, -t, -x 不可同時出現在一串指令列中。
+-z  ：透過 gzip  的支援進行壓縮/解壓縮：此時檔名最好為 *.tar.gz
+-j  ：透過 bzip2 的支援進行壓縮/解壓縮：此時檔名最好為 *.tar.bz2
+-J  ：透過 xz    的支援進行壓縮/解壓縮：此時檔名最好為 *.tar.xz
+      特別留意， -z, -j, -J 不可以同時出現在一串指令列中
+-v  ：在壓縮/解壓縮的過程中，將正在處理的檔名顯示出來！
+-f filename：-f 後面要立刻接要被處理的檔名！建議 -f 單獨寫一個選項囉！(比較不會忘記)
+-C 目錄    ：這個選項用在解壓縮，若要在特定目錄解壓縮，可以使用這個選項
+壓　縮：tar -jcv -f filename.tar.bz2 要被壓縮的檔案或目錄名稱
+查　詢：tar -jtv -f filename.tar.bz2
+解壓縮：tar -jxv -f filename.tar.bz2 -C 欲解壓縮的目錄
+
+如果是没有经过打包，只是解压：
+对于.gz结尾的文件
+gzip -d all.gz  ##-d表示decompress解压缩
+gunzip all.gz
+对于.bz2结尾的文件
+bzip2 -d all.bz2
+bunzip2 all.bz2
+
+
+[root@study ~]# tar -jtv -f /root/etc.tar.bz2 #查看打包里面的档名，-v显示权限
+root@zrjdebian:~/test/udp_echo# tar zcvf py.tar.gz *.py #将目录下所有的.py文件打包压缩
+root@zrjdebian:~/test/udp_echo# tar -ztv -f py.tar.gz #显示压缩包内档名
+root@zrjdebian:~/test/udp_echo# tar -zxvf py.tar.gz f.py#仅仅把压缩包里的f.py解压出来，可以通过grep先查找到对应文件档名，再接在解压命令后，注意档名目录不带根目录/.
+
+三-五-四、备份
+（一）完整備份常用的工具有 dd, cpio, xfsdump/xfsrestore 等等。因為這些工具都能夠備份裝置與特殊檔案！ dd 可以直接讀取磁碟的磁區 (sector) 而不理會檔案系統，是相當良好的備份工具！不過缺點就是慢很多！ cpio 是能夠備份所有檔名，不過，得要配合 find 或其他找檔名的指令才能夠處理妥當。以上兩個都能夠進行完整備份， 但累積備份就得要額外使用腳本程式來處理。可以直接進行累積備份的就是 xfsdump。
+# 1. 用 dd 來將 /dev/sda 備份到完全一模一樣的 /dev/sdb 硬碟上：
+[root@study ~]# dd if=/dev/sda of=/dev/sdb
+# 2. 使用 cpio 來備份與還原整個系統，假設儲存媒體為 SATA 磁帶機：
+[root@study ~]# find / -print | cpio -covB > /dev/st0  <==備份到磁帶機
+[root@study ~]# cpio -iduv < /dev/st0                  <==還原
+假設 /home 為一個獨立的檔案系統，而 /backupdata 也是一個獨立的用來備份的檔案系統，那如何使用 dump 將 /home 完整的備份到 /backupdata 上呢？可以像底下這樣進行看看：
+# 1. 完整備份
+[root@study ~]# xfsdump -l 0 -L 'full' -M 'full' -f /backupdata/home.dump /home
+# 2. 第一次進行累積備份
+[root@study ~]# xfsdump -l 1 -L 'full-1' -M 'full-1' -f /backupdata/home.dump1 /home
+tar將不必要的 /proc, /mnt, /tmp 等目錄不備份，其他的資料則予以備份：
+[root@study ~]# tar --exclude /proc --exclude /mnt --exclude /tmp \
+> --exclude /backupdata -jcvp -f /backupdata/system.tar.bz2 /
+（二）差異備份 (differential backup)每次备份与原始的完整备份比较
+1.[root@study ~]# tar -N '2015-09-01' -jpcv -f /backupdata/home.tar.bz2 /home
+# 只有在比 2015-09-01 還要新的檔案，在 /home 底下的檔案才會被打包進 home.bz2 中！
+# 有點奇怪的是，目錄還是會被記錄下來，只是目錄內的舊檔案就不會備份。
+2.透過 rsync 來進行鏡像備份
+[root@study ~]# rsync -av 來源目錄 目標目錄
+
+#將 /home/ 鏡像到 /backupdata/home/ 去
+[root@study ~]# rsync -av /home /backupdata/
+# 此時會在 /backupdata 底下產生 home 這個目錄來！
+[root@study ~]# rsync -av /home /backupdata/
+# 再次進行會快很多！如果資料沒有更動，幾乎不會進行任何動作！
+
+三-五-四-二、远程档案传输sftp和scp：
+sftp user@ip #登录远程服务器
+put 本机目录或档案       #将本机档案上传到远端主机
+get 远端主机目录或档案   #将远端主机档案下载到本地，可以使用通配符：get * 或者get *.rpm
+登录进入远端主机后cd,pwd,rm,ls等指令的操作针对远端主机，在指令前加上l（L的小写）后，lcd,lls,lpwd则会显示本机的操作。
+root@zrj-debian:~# sftp zrj@localhost
+zrj@localhost's password: 
+Connected to localhost.
+sftp> lpwd
+Local working directory: /root
+sftp> pwd
+Remote working directory: /home/zrj
+sftp> lls
+pathn_apcheck  test
+sftp> 
+档案异地复制scp：
+[root@www ~]# scp [-pr] [-l 速率] file  [帳號@]主機:目錄名 <==上傳
+[root@www ~]# scp [-pr] [-l 速率] [帳號@]主機:file  目錄名 <==下載
+選項與參數：
+-p ：保留原本檔案的權限資料；
+-r ：複製來源為目錄時，可以複製整個目錄 (含子目錄)
+-l ：可以限制傳輸的速度，單位為 Kbits/s ，例如 [-l 800] 代表傳輸速限 100Kbytes/s
+scp /etc/hosts* zrj@127.0.0.1:~   ###将本机/etc/hosts*全部复制到zrj家目录下内；
+scp zrj@127.0.0.1:/etc/bashrc /tmp ###将远端主机的/etc/bashrc复制到本机/tmp下。
+
+附cp：
+cp -r 递归复制源目录下所有文件及子目录 到 目标目录或文件
+cp -p 把源文件或目录下的所具有的权限一同复制 到 目标目录或文件
+
+四、文件的时间stat 查看
+access访问时间，modify内容修改时间，change文件属性修改时间
+
+touch不仅可以创建文件，还可以对其进行时间的一些修改
+
+格式：touch 参数 文件名
+
+参数：
+
+-a:或–time=atime或–time=access或–time=use
+
+-d:使用指定的日期时间，可以使用不同的格式
+
+-m:改变修改时间
+
+-r:把指定的文件日期更设成和参考文档或目录日期相同的时间touch -r test1.txt test2.txt把test2的时间修改为test1的时间。
+
+四-一、find 的-exec参数
+-exec 参数后面跟的是command命令，它的终止是以;为结束标志的，所以这句命令后面的分号是不可缺少的，考虑到各个系统中分号会有不同的意义，所以前面加反斜杠。{}表示find查找出来的文件，都对其进行一次-exec 后面命令的操作。
+1.find . -type f -exec ls -l {} \;               #查找当前目录下文件并显示属性，后面的\;可以替换成+，作用好像一样。
+2.find . -type f -mtime +3 -exec rm {} \;        #查找当前目录下修改时间在三天以前的文件并删除；
+find . -name “*.log” -mtime +3 -exec rm -i{} \;# 删除前会提示询问是否删除。
+3.find .  -name "test*"  -exec grep "try" {} \;  #查找目录下test*文件，并在其中撷取关键字try；
+4.find . -name “*.log” -exec cp {} test3 \;    #将*.log文件复制到test3文件夹
+5.find . -type f -mtime -1 -size +100k -size -400k查找当前目录下大于100k小于400k的文件，不包括文件夹。
+-type f表示只查找文件，过滤文件夹和块文件；
+
+显示文件夹中文件大小并排序：du -sh * | sort -nr #-s表示summarize总体，显示一层目录，其子目录下文件不分开显示；-h表示human-readable，会以k，m，g为单位显示大小
+sort -nr # -n表示numeric数字的，-r表示reverse反向，sort默认由小到大排序，反向则从大到小；-h参数加上单位后数值有变化，如果文件大小相差太远，需要取消这个参数.
+--max-depth=N #显示层级，N为0时显示当前目录，1时向下显示一级子目录文件
+
+du -a|sort -rn|head -20 #显示当前目录下大小前20的文件，会将文件夹展开，以文件的方式罗列
+du -sh * 不展开文件夹，将当前目录下的文件和文件夹一起排序
+
+通过匹配某些条件的文件来循环重复一个命令
+shell循环方式：
+for x in *.txt;do if [ -f "$x" ]; then ls -al "$x";fi;done ###查找当前目录下*.txt文件，并ls -al
+find和xargs联合：
+find . -type f -maxdepth 1 -name '*.txt' -print0| xargs -0 -n 1 ls -al 
+find . -type f -maxdepth 1 -name '*.txt'| xargs ls -al ##实现结果跟上面一样
+find使用-exec选项并执行指令：
+find . -type f -maxdepth 1 -name '*.txt' -exec  ls -al  '{}' \;
+
+find -print0表示在find的每一个结果之后加一个NULL字符，而不是默认加一个换行符。find的默认在每一个结果后加一个'\n'，所以输出结果是一行一行的。当使用了-print0之后，就变成一行。
+xargs -0表示xargs用NULL来作为分隔符。这样前后搭配就不会出现空格和换行符的错误。
+
+四-一-零、当命令参数中包含空格时
+for((i=0;i<3;i++)); do touch "test ${i}.log";done  ##创建三个文件，且使文件名包含有空格
+find . -name '*.log' -print | xargs rm  ##运行xargs命令有报错：
+root@zrj-debian:~/test/log# find . -name '*.log'  | xargs rm
+rm: cannot remove './test': No such file or directory
+rm: cannot remove '1.log': No such file or directory
+rm: cannot remove './test': No such file or directory
+rm: cannot remove '0.log': No such file or directory
+rm: cannot remove './test': No such file or directory
+rm: cannot remove '2.log': No such file or directory
+当 find 命令获取到的文件名经过 xargs 传送给 rm 命令时，文件“./test 1.log”就变成了“./test”和“1.log”两个文件，导致报错。
+原因是xargs 默认的分隔符是空格，需要把 xargs 的分隔符改成其他符号：
+find . -name '*.log' -print0 | xargs -0 rm -f
+或者-d指定分隔符：-d, --delimiter=CHARACTER
+find . -name '*.log' -print | xargs -d '\n'  rm ###指定换行符作为分隔符 
+
+
+
+
+
+
+四-一-一、test 檢測系統上面某些檔案或者是相關的屬性
+test -f test1.txt  && echo "exist" || echo "Not exist" #检查test1.txt档名是否存在且为文件
+-e 該『檔名』是否存在
+-f 該『檔名』是否存在且為檔案(file)
+-d 該『檔名』是否存在且為目錄(directory)
+ test -r filename 表示可讀否 (但 root 權限常有例外) #-w，-x，-r检查读写执行权限
+
+
+四-一-二、系统服务
+/lib/systemd/system  #各种服务的属性文件，存放的最终目录 
+/etc/systemd/system/ #当前系统主要的服务文件，基本是链接档，链接到/lib/systemd/system，指令systemctl command service的操作会指向这个目录，systemctl enable命令用于在上面两个目录之间，建立符号链接关系。
+里面的multi-user.target.wants目录下包含多用户模式下的服务。
+
+/var/lib/systemd/ #该目录下deb-systemd-helper-enabled,包含有服务的.service文件（空文件）；deb-systemd-helper-masked目录有个别文件（空文件）
+#systemctl command service 的操作好像对该目录的文件无影响，disable或enable 服务，里面的service文件没反应。(作用不明)
+service操作通过调用/lib/systemd/systemd-sysv-install脚本执行。
+
+生效的服务会有对应的软连接文件在/etc/systemd/system/目录下，
+在unit文件里定义
+# [Install]通常是配置文件的最后一个区块，用来定义如何启动，以及是否开机启动。
+[Install]
+# WantedBy的值是一个或多个 Target，当前 Unit enable时，会创建符号链接放入/etc/systemd/system目录下面以 Target 名 + .wants后缀构成的子目录中，表示了nginx属于multi-user.target，当系统启动到multi-user.target时就会运行nginx.service
+WantedBy=multi-user.target
+
+root@zrjdebian:~/test/udp_echo# systemctl disable mysql
+Synchronizing state of mysql.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install disable mysql
+Removed /etc/systemd/system/mysqld.service.
+Removed /etc/systemd/system/mysql.service.
+Removed /etc/systemd/system/multi-user.target.wants/mariadb.service.
+
+1.你可以透過哪些指令查詢到目前系統預設開機會啟動的服務？
+systemctl list-units 以及 systemctl list-unit-files
+
+2.使用 netstat -tul 與 netstat -tunl 有什麼差異？為何會這樣？
+使用 n 時， netstat 就不會使用主機名稱與服務名稱 (hostname & service_name) 來顯示， 取而代之的則是以 IP 及 port number 來顯示的。IP 的分析與 /etc/hosts 及 /etc/resolv.conf 有關。至於 port number 則與 /etc/services 有關。
+
+3.systemctl daemon-reload可以重载服务单元，在修改.service文件后一般需要重载。
+
+4.systemctl status *.service 的第三行，service的状态：
+active（running）active (running)：正有一隻或多隻程序正在系統中執行的意思，舉例來說，正在執行中的 vsftpd 就是這種模式。
+active (exited)：僅執行一次就正常結束的服務，目前並沒有任何程序在系統中執行。 舉例來說，開機或者是掛載時才會進行一次的 quotaon 功能，就是這種模式！ quotaon 不須一直執行～只須執行一次之後，就交給檔案系統去自行處理囉！通常用 bash shell 寫的小型服務，大多是屬於這種類型 (無須常駐記憶體)。
+active (waiting)：正在執行當中，不過還再等待其他的事件才能繼續處理。舉例來說，列印的佇列相關服務就是這種狀態！ 雖然正在啟動中，不過，也需要真的有佇列進來 (列印工作) 這樣他才會繼續喚醒印表機服務來進行下一步列印的功能。
+
+inactive：這個服務目前沒有運作的意思。
+
+daemon 的預設狀態：
+enabled：這個 daemon 將在開機時被執行
+disabled：這個 daemon 在開機時不會被執行
+static：這個 daemon 不可以自己啟動 (enable 不可)，不過可能會被其他的 enabled 的服務來喚醒 (相依屬性的服務)
+mask：這個 daemon 無論如何都無法被啟動！因為已經被強制註銷 (非刪除)。可透過 systemctl unmask 方式改回原本狀態。
+
+
+
+
+
+四-一-三、登录档
+1.配置文件/etc/rsyslog.conf
+daemon.*         -/var/log/daemon.log #daemon所有级别的告警信息都写入到daemon.log中；
+*.*;auth,authpriv.none    -/var/log/syslog #记录所有信息，除了auth和authpriv的；等价于*.*;auth.none;authpriv.none    -/var/log/syslog
+*.=debug;\
+	auth,authpriv.none;\
+	news.none;mail.none	-/var/log/debug
+# .=符号用于指定信息级别，所有debug信息，除了auth,authpriv和news，mail的debug信息，都记录到目录里。
+*.debug #表示级别高于等于debug的都记录。
+在記錄的檔案 /var/log/syslog 前面還有個減號『 - 』是幹嘛用的？由於郵件所產生的訊息比較多，因此我們希望syslog產生的訊息先儲存在速度較快的記憶體中 (buffer) ，等到資料量夠大了才一次性的將所有資料都填入磁碟內，這樣將有助於登錄檔的存取性能。 只不過由於訊息是暫存在記憶體內，因此若不正常關機導致登錄資訊未回填到登錄檔中，可能會造成部分資料的遺失。
+
+
+2. rsyslogd 的登錄檔只要『被編輯過』就無法繼續記錄！当用vi打开.log文件后，wq退出后，日志将不再写入，需要重启日志服务systemctl restart rsyslog.service
+
+3.登錄檔的輪替(logrotate)
+/bin/kill -HUP `cat /var/run/rsyslogd.pid 2> /dev/null` 2> /dev/null || true #重新读入rsyslogd参数文件rsyslog.conf,相当于reload。/var/run/rsyslogd.pid存放了rsyslog的PID。
+
+logrotate设计的目的是为了减轻系统管理员处理大量日志文件的压力。可以实现日志的自动轮转、压缩和清理等功能，可以按天、按周、按月或者按照文件大小来处理日志。
+对于Debian来说，logrotate的主要配置在/etc/logrotate.conf:
+
+# see "man logrotate" for details
+# rotate log files weekly
+weekly
+
+# keep 4 weeks worth of backlogs
+rotate 4
+
+# create new (empty) log files after rotating old ones
+create
+
+# uncomment this if you want your log files compressed
+#compress
+
+# packages drop log rotation information into this directory
+include /etc/logrotate.d
+
+# no packages own wtmp, or btmp -- we'll rotate them here
+/var/log/wtmp {
+    missingok
+    monthly
+    create 0664 root utmp
+    rotate 1
+}
+
+/var/log/btmp {
+    missingok
+    monthly
+    create 0660 root utmp
+    rotate 1
+}
+
+# system-specific logs may be configured here
+
+weekly: 默认按照周进行日志轮转
+rotate: 日志轮转个数
+create: 轮转后创建新的空文件
+include: 包含的子文件路径，一般项目定制的logrotate配置放到改包含路径
+
+apache2日志轮转配置：
+root@zrj-debian:/etc/logrotate.d# cat apache2 
+/var/log/apache2/*.log {
+	daily #按日轮转
+	missingok #如果日志文件不存在，忽略轮转的报错
+	rotate 14 #日志轮转数为14
+	compress  #轮转文件压缩
+	delaycompress #从第三个轮转文件开始压缩，和compress配合使用
+	notifempty    #如果文件为空则不轮转
+	create 640 root adm  #轮转后新建文件的权限和属主
+	sharedscripts
+	postrotate  #轮转后执行的命令,
+                if /etc/init.d/apache2 status > /dev/null ; then \
+                    /etc/init.d/apache2 reload > /dev/null; \
+                fi;
+	endscript
+	prerotate
+		if [ -d /etc/logrotate.d/httpd-prerotate ]; then \
+			run-parts /etc/logrotate.d/httpd-prerotate; \
+		fi; \
+	endscript
+}
+
+logrotate不是常驻服务，每次rotate时执行命令即可。该命令的执行由cron管理。
+
+cat /etc/cron.daily/logrotate
+
+#!/bin/sh
+
+test -x /usr/sbin/logrotate || exit 0  ###判断是否有执行权限x，有则往下执行，无则退出进程；
+/usr/sbin/logrotate /etc/logrotate.conf
+
+
+
+
+
+
+
+四-二、文件及系统
+
+1.1文件属性：
+使用lsattr和chattr可以显示和改变文件的属性。+增加参数属性，-移除参数属性。
+s(secure deletion)，当文件被删除时，分配在该文件中的所有块都会清零，并写入磁盘，保证文件的数据被彻底清除，不能被访问。
+
+u(undelete)，该属性可保存被删除的文件内容。
+
+c(compress)，当文件保存在磁盘时，内核会自动压缩该文件。
+
+S(synchronous)，当修改具有该属性的文件时，所有更改将同步写入磁盘。
+
+i(immutable)，设置了该属性的文件不允许更改。
+
+a(append only)，文件只能以追加模式打开，只有root才能设置或删除主该属性。
+
+d(no dump)，具有该属性的文件不能被dump工具备份。
+
+A(no atime)，不更新atime值，atime是文件文件的访问时间戳。
+
+
+1.2软硬连接
+ln test.txt test1.txt 建立test.txt的硬链接，相当于复制一份，修改如删除test.txt不影响test1.txt #只能在同一个分区（在同一个挂载点下）中操作，会增加文件的连接数，文件的inode一样。
+ln -s test.txt test1.txt 建立test.txt的软连接，相当于快捷键，修改如删除test.txt影响test1.txt
+软连接到其他路径要使用绝对路径表示 ln -s test1 /home/zrj/会报错，ln -s /root/test/test1  /home/zrj/可以，文件夹无法使用硬链接。
+ln -sf file1 files2 #-f 删除files2现有目标文件,并files1软连接到files2，-f强制创建。
+
+1.3系统管理工具
+1.top可实时地显示Linux系统的进程、CPU、内存、负载等的信息过几个按键来控制top命令，如按q可退出top命令状态，按s可输入信息的更新频率等。这些命令可按h帮助键查询。
+2.ps命令可查询系统的进程状态，常用的命令参数是ps aux，该命令可显示所有用户的进程；要显示进程树的依赖关系可用以下命令：ps -auxf
+
+3.kill命令用于终止进程（通过PID）
+-1或-HUP，中止进程，如果进程是系统服务，则进程会重载配置文件并重启。
+
+-15或-TERM，中止进程，并清除无用的文件和进程。这是最优雅地中止进程的方式。
+
+-9或-KILL，强行中止进程，这是最粗暴地中止进程的方式。
+程序管理：
+代號	名稱	內容
+1	SIGHUP	啟動被終止的程序，可讓該 PID 重新讀取自己的設定檔，類似重新啟動
+2	SIGINT	相當於用鍵盤輸入 [ctrl]-c 來中斷一個程序的進行
+9	SIGKILL	代表強制中斷一個程序的進行，如果該程序進行到一半， 那麼尚未完成的部分可能會有『半產品』產生，類似 vim會有 .filename.swp 保留下來。
+15	SIGTERM	以正常的結束程序來終止該程序。由於是正常的終止， 所以後續的動作會將他完成。不過，如果該程序已經發生問題，就是無法使用正常的方法終止時， 輸入這個 signal 也是沒有用的。
+19	SIGSTOP	相當於用鍵盤輸入 [ctrl]-z 來暫停一個程序的進行
+
+例子：以 ps 找出 rsyslogd 這個程序的 PID 後，再使用 kill 傳送訊息，使得 rsyslogd 可以重新讀取設定檔。
+答：
+由於需要重新讀取設定檔，因此 signal 是 1 號。至於找出 rsyslogd 的 PID 可以是這樣做：
+ps aux | grep 'rsyslogd' | grep -v 'grep'| awk '{print $2}' # awk可以-F指定分隔符，不指定默认为空格符
+接下來則是實際使用 kill -1 PID，因此，整串指令會是這樣：
+kill -SIGHUP $(ps aux | grep 'rsyslogd' | grep -v 'grep'| awk '{print $2}') #第二个管线命令grep -v 'grep'反选，是将含grep的这个进程筛选掉
+一般使用grep后会有两个相关的结果：
+root@zrjdebian:~/test/udp_echo# ps aux | grep 'rsyslogd'
+root        345  0.0  0.3 256476  3336 ?        Ssl  10:00   0:00 /usr/sbin/rsyslogd -n
+root       2878  0.0  0.1  14528  1016 pts/0   s S+   10:58   0:00 grep --color=auto rsyslogd #这个属于grep自身进程，可以排除掉
+
+killall -signal 指令名稱 #killall通过进程的名称来操作，kill通过PID
+killall -9 httpd #根据进程名称关闭进程，不需要PID
+
+3.1 pkill
+当作于管理进程时，pkill 命令和 killall 命令的用法相同，都是通过进程名杀死一类进程，该命令的基本格式如下：
+pkill [信号] 进程名
+
+pkill另一个用法：踢出登录用户
+ pkill [-t 终端号] 进程名
+
+root@zrj-debian:~/test/puppet# w
+ 16:06:21 up  4:58,  2 users,  load average: 0.08, 0.13, 0.09
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+root     pts/0    192.168.65.1     11:08    5.00s  0.08s  0.00s w
+zrj      pts/1    192.168.65.1     16:05   23.00s  0.00s  0.00s -bash
+root@zrj-debian:~/test/puppet# pkill -9 -t pts/1
+root@zrj-debian:~/test/puppet# w
+ 16:13:01 up  5:04,  1 user,  load average: 0.04, 0.13, 0.10
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+root     pts/0    192.168.65.1     11:08    1.00s  0.09s  0.00s w
+root@zrj-debian:~/test/puppet# 
+
+
+4.free显示系统内存使用情况-b,-k,-m
+5.vmstat:使用vmstat 2 命令可每隔2秒显示一行系统信息，这些信息包括CPU占用效、内存使用情况和磁盘IO等.
+6.watch可重复执行某个命令，监控命令执行状态：watch -n 5 date每隔5秒执行一次date。
+7.lsof -u root/zrj 显示用户打开文件；lsof -i:80查看占用80端口的程序。lsof -p 1##列出被pid=1进程打开的文件
+
+[root@study ~]# lsof [-aUu] [+d]
+選項與參數：
+-a  ：多項資料需要『同時成立』才顯示出結果時！
+-U  ：僅列出 Unix like 系統的 socket 檔案類型；
+-u  ：後面接 username，列出該使用者相關程序所開啟的檔案；
++d  ：後面接目錄，亦即找出某個目錄底下已經被開啟的檔案
+
+
+8.netstat -nal显示所有的网络连接，-ntal看tcp，-nual看udp。
+9.df -h显示磁盘使用情况，du -ch 显示当前目录文件夹大小。
+10.passwd -l username锁定异常账号，需要重置密码才能再次登陆。
+11.fuser -v /var/log/syslog ##识别使用文件的进程
+root@zrj-debian:~/test# fuser -v /var/log/syslog
+                     USER        PID ACCESS COMMAND
+/var/log/syslog:     root        372 F.... rsyslogd
+
+[root@study ~]# fuser [-umv] [-k [i] [-signal]] file/dir
+選項與參數：
+-u  ：除了程序的 PID 之外，同時列出該程序的擁有者；
+-m  ：後面接的那個檔名會主動的上提到該檔案系統的最頂層，對 umount 不成功很有效
+-v  ：可以列出每個檔案與程序還有指令的完整相關性
+-k  ：找出使用該檔案/目錄的 PID ，並試圖以 SIGKILL 這個訊號給予該 PID；
+-i  ：必須與 -k 配合，在刪除 PID 之前會先詢問使用者意願
+-signal：例如 -1 -15 等等，若不加的話，預設是 SIGKILL (-9) 
+
+范例：找到/run下属于FIFO类型档案，并找出存取该档案的程序
+root@zrj-debian:~# find /run -type p  
+/run/systemd/inhibit/5.ref
+/run/systemd/inhibit/4.ref
+/run/systemd/inhibit/2.ref
+/run/systemd/inhibit/1.ref
+/run/systemd/sessions/427.ref
+/run/systemd/sessions/4.ref
+/run/systemd/sessions/c1.ref
+/run/systemd/initctl/fifo
+/run/systemd/inaccessible/fifo
+root@zrj-debian:~# fuser -uv /run/systemd/sessions/427.ref
+                     USER        PID ACCESS COMMAND
+/run/systemd/sessions/427.ref:
+                     root        347 f.... (root)systemd-logind
+                     root       3914 F.... (root)sshd
+##通常系统的FIFO档案都会放在/run底下，通过fuser可以追踪档案被存取的进程。
+
+12.pidof显示进程的PID
+
+[root@study ~]# pidof [-sx] program_name
+選項與參數：
+-s  ：僅列出一個 PID 而不列出所有的 PID
+-x  ：同時列出該 program name 可能的 PPID 那個程序的 PID
+结合pidstat可以查看进程状态
+pidstat -p $(pidof systemd-journald) 3
+##-p通过PID查看信息，3s刷新一次。
+
+13.查看系统cpu及core
+lscpu 或者查看/proc/cpuinfo
+cat /proc/cpuinfo | grep "physical id" | sort | uniq | wc -l ###物理cpu
+cat /proc/cpuinfo | grep "processor" | sort | uniq | wc -l   ###核数
+cat /proc/cpuinfo | grep "core" | sort | uniq | wc -l        ##物理core，上面可以有多个processor
+  
+五、rsync
+1.# rsync -a --delete /etc/network /root/test/backup
+#rsync -a --delete /etc/network/ /root/test/backup1
+在指定复制源时，路径是否有最后的 “/” 有不同的含义，例如：
+/etc/network ： 表示将整个/etc/network 目录复制到目标目录backup下，即在backup下生成network文件夹；
+/etc/network/： 表示将 /etc/network目录中的所有内容复制到目标目录,即把network文件夹里面的文件复制到backup1里面，不再保留network这个文件夹这一层。
+--delete参数，表示先把目标目录多余的文件先删除再把源目录的内容复制进来（删除那些接收端还有而发送端已经不存在的文件）。
+若使用普通用户身份运行 rsync 命令，同步后的文件的属主将改变为这个普通用户身份。
+若使用超级用户身份运行 rsync 命令，同步后的文件的属主将保持原来的用户身份。
+2.-v，显示rsync过程详细信息；-a，递归模式，表示递归传输并保存文件属性；-z，传输时进行压缩提高效率。
+--exclude#排除指定文件夹或文件；--port指定端口； --bwlimit=1000 #限制传输带宽1000kps
+-a,保留文件属性，所属群组
+-e,使用的通道，-e ssh
+
+3. 
+Usage: rsync [OPTION]... SRC [SRC]... DEST
+  or   rsync [OPTION]... SRC [SRC]... [USER@]HOST:DEST
+  or   rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
+  or   rsync [OPTION]... SRC [SRC]... rsync://[USER@]HOST[:PORT]/DEST
+  or   rsync [OPTION]... [USER@]HOST:SRC [DEST]
+  or   rsync [OPTION]... [USER@]HOST::SRC [DEST]
+  or   rsync [OPTION]... rsync://[USER@]HOST[:PORT]/SRC [DEST]
+The ':' usages connect via remote shell, while '::' & 'rsync://' usages connect
+to an rsync daemon, and require SRC or DEST to start with a module name.
+三种用法：
+（1）rsync -av /etc /tmp #将/etc/目录内容复制一份到/tmp/etc内
+（2）通过rsh或ssh通道的server/client之间传输：
+rsync -av -e ssh user@rsh.server:/etc /tmp 将rsh.server的/etc备份到本地主机/tmp下
+（3）直接通过rsync提供的服务（deamon）来传输，此时的rsync主机需要启动873端口：
+server端启动rsync，编辑etc/rsyncd.conf,设置好client连线密码资料，在client端使用：
+rsync -av user@hostname::/dir/path /local/path
+
+
+五-六、mariaDB
+1.grant all privileges on *.* to 'zrj'@'%' identified by "112233" with grant option;
+flush privilegs；
+新建一个zrj用户并授予所有权限。
+insert into mysql.user(Host,User,Password) values("%","zrj",password("112233"));
+修改用户密码update user set password = password"zhang112233" where user = "root" and host="localhost";密码字段要带上password，加密显示，如果没有password，添加后字段直接显示为明文内容，无法登陆。
+
+delete from user where user = 'test' and host = 'loocalhost';删除test用户。
+或者drop user zrj@'%';
+
+
+
+六、通配符（批处理文件）
+
+
+*
+
+ ：匹配 0 或多个字符
+
+，a*b表示a与b之间可以有任意长度的任意字符, 也可以一个也没有, 如aabcb, axyzb, a012b, ab。
+
+
+? ：
+
+匹配任意一个字符
+,
+a?b表示a与b之间必须也只能有一个字符, 可以是任意字符, 如aab, abb, acb, a0b。
+
+
+[list] ：
+
+匹配 list 中的任意单一字符,
+
+a[xyz]b表示a与b之间必须也只能有一个字符, 但只能是 x 或 y 或 z, 如: axb, ayb, azb。
+
+
+[!list]或[^list]
+
+ :匹配 除list 中的任意单一字符
+
+,a[!0-9]b表示a与b之间必须也只能有一个字符, 但不能是阿拉伯数字, 如axb, aab, a-b。
+
+
+[c1-c2]
+
+：匹配 c1-c2 中的任意单一字符 如：[0-9] [a-z]
+
+，a[0-9]b表示0与9之间必须也只能有一个字符 如a0b, a1b... a9b。
+
+
+[!c1-c2]或[^c1-c2]：
+
+匹配不在c1-c2的任意字符
+
+，a[!0-9]b 如acb adb
+
+
+{string1,string2,...}：
+
+匹配 sring1 或 string2 (或更多)其一字符串
+
+，a{abc,xyz,123}b列出aabcb,axyzb,a123b。
+
+峰值统计csv：批量合并以日期命名的文件，无法使用[]来合并连续几天的文件，退而求其次，使用{}字符串匹配来做。2018-11-[01-07].txt,找不到文件；2018-11-{07，08，09，10，11}.txt能合并7号到11号文件,数字连续也可以写成{07..11}，字母连续同样可以写成{a..d},表示a到d
+当前目录下sh creat.sh报错，找不到文件无法运行，但./create.sh可以运行。但是可以使用bash create.sh运行，目测是该debian用的脚本解析器是bash而不是sh。(echo $SHELL)
+
+通配符用于文件查找，跟文本处理正则表达式里面的特殊符号有区别。
+##正規表示法基本上是一種『表示法』， 只要工具程式支援這種表示法，那麼該工具程式就可以用來作為正規表示法的字串處理之用。 例如 vi, grep, awk ,sed 等等工具，因為她們有支援正規表示法， 所以，這些工具就可以使用正規表示法的特殊字元來進行字串的處理。但例如 cp, ls 等指令並未支援正規表示法， 所以就只能使用 bash 自己本身的萬用字元而已。##
+
+範例一：找出 /etc/ 底下以 cron 為開頭的檔名
+[dmtsai@study ~]$ ll -d /etc/cron*    <==加上 -d 是為了僅顯示目錄而已
+
+
+範例二：找出 /etc/ 底下檔名『剛好是五個字母』的檔名
+[dmtsai@study ~]$ ll -d /etc/?????    <==由於 ? 一定有一個，所以五個 ? 就對了
+
+
+範例三：找出 /etc/ 底下檔名含有數字的檔名
+[dmtsai@study ~]$ ll -d /etc/*[0-9]*  <==記得中括號左右兩邊均需 *
+
+
+範例四：找出 /etc/ 底下，檔名開頭非為小寫字母的檔名：
+[dmtsai@study ~]$ ll -d /etc/[^a-z]*  <==注意中括號左邊沒有 *
+
+跟语系有联系，不同语系下显示结果不一样（LANG=设置，以上操作在LANG＝C下运行）
+
+混淆模式匹配和正则：
+root@zrj-debian:~/test/shell/useradd# ls 
+accountadd.sh  accountadd.txt
+root@zrj-debian:~/test/shell/useradd# ls account.*
+ls: cannot access 'account.*': No such file or directory
+root@zrj-debian:~/test/shell/useradd# ls account*
+accountadd.sh  accountadd.txt
+root@zrj-debian:~/test/shell/useradd# 
+.*在正则中匹配了所有，但请记住，shell中绝大多数用的是模式匹配([[ "$string" =~ RE ]]例外)
+在模式匹配中*匹配了所有，?匹配了单个字符，.号没有特殊意义，还是.号
+所以，第二个命令才是正确。
+
+
+
+
+（二）、正则表达式中特殊符号的表示（文本工具awk,grep,sed）
+字符        含义
+^        指向一行的开头
+$        指向一行的结尾
+.        任意单个字符
+[]       字符范围。如[a-z]
+在方括号中还可以使用一些有用的特殊匹配模式，如下：
+匹配模式
+
+                    含义
+
+
+[:alnum:]         字母与数字字符,如grep[[:alnum:]] words.txt
+
+
+[:alpha:]
+
+ 		字母
+
+
+[:ascii:]
+
+ 		ASCII字符
+
+
+[:blank:]         
+
+空格或制表符
+
+
+[:cntrl:]         
+
+ASCII控制字符
+
+
+[:digit:]
+
+	  数字
+
+
+[:graph:]
+
+         非控制、非空格字符
+
+
+[:lower:]         
+
+小写字母
+
+
+[:print:]
+         
+可打印字符
+
+
+[:punct:]         
+
+标点符号字符
+
+
+[:space:]
+         
+空白字符，包括垂直制表符
+
+
+[:upper:]
+         
+大写字母
+
+
+[:xdigit:]
+        
+十六进制数字
+匹配次数:{n},匹配到n次；{n,}匹配n次或以上；{n,m}匹配次数在n到m之间，包括边界。需要加上反斜杠转义\{n,m\}
+
+cat /etc/passwd | grep ^http #查找http开头的行，会显示https以及带其他后缀的符合项；
+cat /etc/services | grep ^http[[:space:]] #显示http开头，且其后只能加空格的行
+root@zrj-debian:~/test/shell# cat /etc/services | grep ^http[[:space:]]
+http		80/tcp		www		# WorldWideWeb HTTP
+root@zrj-debian:~/test/shell# cat /etc/services | grep ^http[s]*[[:space:]]#显示http或https开头且其后是空格符的行
+http		80/tcp		www		# WorldWideWeb HTTP
+https		443/tcp				# http protocol over TLS/SSL
+
+
+
+
+六-二-一、sed
+
+查找替换，可以使用另外的分隔符：s///,s@@@,s###  
+
+g:行内全局替换  
+p:显示替换成功的行
+-n:取消自动打印  
+sed '2p' /etc/passwd 打印第二行（自动打印后第二行重复打印一次）  
+
+sed -n '1,4p'  /etc/passwd 打印第一到第四行  
+
+sed -n ‘/root/p’/etc/passwd 打印包含root的行
+
+sed -n ‘2，/root/p’/etc/passwd 从第二行到包含root的行
+sed -n ‘/^$/=’/etc/passwd 显示空行行号
+sed -n  -e ‘/^$/p’-e  '/^$/=' file 打印空行并显示行号
+sed '/root/a\superman' /etc/passwd 查找包含root行，在其后加加一行superman
+sed '/root/i\superman' /etc/passwd 查找包含root行，在其前面加一行superman
+sed '/root/c\superman' /etc/passwd 查找包含root行，替换为superman
+sed '/^$/d' file 删除空行
+sed 's/test/mytest/g' file 全局替换
+sed -n  's/root/&superman/p' /etc/passwd 查找root在其后加superman
+sed -n  's/root/superman&/p' /etc/passwd 查找root在其前面加superman
+sed -e 's/dog/cat/' -e 's/hi/lo/' file 多点编辑
+sed -i.bak 's/dog/cat/g' file 备份并替换#.bak源文件备份为file.bak,-i后面加什么，file命名后面就加什么。
+sed -i '/zrj/ s/\/bin\/bash/\/bin\/nologin/' /etc/passwd #查找zrj所在的行，并将其的shell修改替换。
+sed -i 's/iface eth1 inet dhcp/# \0/' /etc/network/interfaces ###将eth1所在行前添加#注释掉，\0表示保留原来的内容；如果是直接替换，不加\0，改行内容的eth1部分就变成了#，后面空白。
+
+
+
+通过ifconfig把网卡ip取出来：
+root@zrj-debian:~/test/learngit# ifconfig eth0 | sed -n '2p'| sed 's/.*inet//'| sed 's/netmask.*//'
+ 192.168.65.132 
+root@zrj-debian:~/test/learngit# ifconfig eth0|sed -n '2p'|awk '{print $2}'
+192.168.65.132
+
+
+六-二-二、awk
+awk -F：‘{print $1"###"$3}’file 以冒号为分隔符打印第一列和第三列，以###分割
+awk -v FS=":" -v OFS="---" '{print $1,$3}'  /etc/passwd 以冒号为分隔符打印第一第三列，再以---将其分隔开
+
+OFS，输出分隔符 ; FS:
+filed separator
+ ;RS：record separator记录分隔符
+ORS输出记录分隔符，输出时用指定符号代替换行符
+NF 字段数量，NR记录号（不一定是行数，也可以以其他分隔符分开）
+
+~：匹配//中的内容；!~:不匹配
+awk -F: '$0 ~ /root/{print $0}'  /etc/passwd #打印含有root的行
+awk '$0 !~ /root/ ' /etc/passwd  #打印不含root的行，$0表示整行，awk -F: '$7 ~ /\/bin\/bash/{print $0}' /etc/passwd
+#将第七列为/bin/bash的行打印。
+awk -F: '!($3==0) {print $3}' /etc/passwd 打印第三列不等于0的行的第三列（UID）
+条件表达式（三目表达式）：
+root@zrj-debian:~/test/learngit# awk -F: '{$3>=1000?usertype="common User":usertype="sysUser";printf "%-15s:%-20s:%-d\n",usertype,$1,$3}' /etc/passwd
+sysUser        :root                :0
+sysUser        :daemon              :1
+sysUser        :bin                 :2
+sysUser        :sys                 :3
+sysUser        :sync                :4
+满足$3>=1000的执行？后条件，不满足执行：后条件，格式化打印，%-15s左对齐15个字符
+
+pattern：跟进pattern条件，过滤匹配的行，再做处理
+
+关系表达式relational expression 结果为真时才处理；
+
+真：结果为非0值，非空字符串
+；
+假：结果为空字符或0值
+
+（1）如果未指定：空模式，匹配每一行
+awk -F: 'i=1;j=1{print i,j}' /etc/passwd 会打印出每行
+awk '!0' /etc/passwd会打印；awk '!1' /etc/passwd不打印
+（2）/regular expression/ :仅处理能够模式匹配到的行。需要用//括起来
+awk pattern 行范围/pat1/,/pat2/
+awk -F: '/^root/,/^nobody/ {print $1,$3}' /etc/passwd 取以root开头到以nobody开头的行
+
+BEGIN{}：仅在开始处理文件中的文本之前执行一次；END{}: 仅在文本处理完成之后执行一次
+1.awk控制语句if-else
+root@zrj-debian:~/test/learngit# awk -F: '{if($3>=1000)print $1,$3}' /etc/passwd
+nobody 65534
+zrj 1000
+打印id号大于等于1000的用户
+root@zrj-debian:~/test/learngit# awk -F: '{if($3>=1000) {printf "common user:%s\n",$1}else{printf "root or sysuser:%s\n",$1}}' /etc/passwd
+root or sysuser:root
+root or sysuser:daemon
+root or sysuser:bin
+root or sysuser:sys
+显示的效果跟下面语句一样： awk -F: '{if($3>=1000) printf "common user:%s\n",$1;else printf "root or sysuser:%s\n",$1}' /etc/passwd
+
+2.while语句：while （condition）{statement；…}
+root@zrj-debian:~/test/learngit# awk -F: 'NR<=1{i=1;while(i<=NF){print $i,length($i);i++}}' /etc/passwd
+root 4
+x 1
+0 1
+0 1
+root 4
+/root 5
+/bin/bash 9
+#将第一行记录的每字段打印，并显示每个字段的字符数
+awk 'BEGIN{sum=0;i=1;while(i<=100){sum+=i;i++};print "sum="sum}' #计算1+2+……+100的和
+
+3.for 循环：for （expr1;expr2;expr3）{statement;......} #执行expr1，判断expr2，执行statement，执行expr3，再判断expr2，符合就执行statement，不符合就跳出循环。
+awk 'BEGIN{sum=0;for(i=1;i<=100;i++){sum+=i}print "sum="sum}' #计算1+2+……+100的和
+
+break跳出整个循环，continue跳出当前行循环:
+root@zrj-debian:~/test/learngit# awk 'BEGIN{sum=0;for(i=1;i<=100;i++){if(i==50)break;sum+=i}print sum}' 
+1225
+#break和continue中止和跳出循环是在statement语句，不是在expr语句；另外if(i==50)中==不能使用=替换（=赋值运算符；==关系运算符）
+root@zrj-debian:~/test/learngit# awk 'BEGIN{sum=0;for(i=1;i<=100;i++){if(i==50)continue;sum+=i}print sum}'
+5000
+
+
+
+4.for遍历数组
+root@zrj-debian:~/test/learngit# netstat -tan | awk  '/^tcp/{state[$NF]++}END{for (i in state) {print i,state[i]}}'
+LISTEN 3
+ESTABLISHED 2
+统计各种tcp连接状态的数量，{state[$NF]++}，数组下标为LISTEN,ESTABLISHED两种，根据出现次数累加统计。
+{state[$NF]++}的说明：awk读取第一行时，数组为state[LISTEN]++，此时state[LISTEN]的值未定义，但由于后面有运算符号++，awk会将0赋值给state[LISTEN]，然后再做++运算；则state[LISTEN]++，为0+1得到1；当读取到第二个LISTEN时，此时state[LISTEN]在之前1的基础上做++运算，得到2；一次类推，一直计数。
+可用于统计出现次数：
+（1）查看last中各用户出现次数
+root@zrj-debian:~/test/shell# last | cut -d' ' -f1 | sort |uniq -c  #会显示空行和最后一个wtmp非用户，需要另外处理
+      1 
+      1 reboot
+      4 root
+      1 wtmp
+      3 zrj
+#sort用于排序，按字母从小大到排，如果不进行排序就进行uniq计数，不会把用户的次数进行合并，会在每次连续出现时进行一次计数。
+用for遍历，不需要排序，直接计数：
+root@zrj-debian:~/test/shell# last | awk '{user[$1]++}END{for (i in user) {print i,user[i]}}'
+ 1
+wtmp 1
+root 4
+zrj 3
+reboot 1
+（2）提取/etc/passwd里面第七列各种shell的个数：
+awk -F: '{print $7}' /etc/passwd | sort | uniq -c 
+root@zrj-debian:~/test/shell# awk -F: '{shell[$7]++}END{for (i in shell){print i ,shell[i]}}' /etc/passwd 
+ 1
+/bin/sync 1
+/bin/bash 2
+/bin/false 19
+/usr/sbin/nologin 17
+
+
+
+################插播一段：awk运算符####################
+
+运算符	                         描述
+赋值运算符
+= += -= *= /= %= ^= **=	       赋值语句
+逻辑运算符
+||				逻辑或
+&&				逻辑与
+正则运算符
+~ ~!			匹配正则表达式和不匹配正则表达式
+关系运算符
+< <= > >= != ==			关系运算符
+算术运算符
++ -				加，减
+* / &				乘，除与求余
++ - !				一元加，减和逻辑非
+^ ***				求幂
+++ --			增加或减少，作为前缀或后缀
+
+##所有用作算术运算符，进行操作，操作数自动转为数值，所有非数值都变为0。
+root@zrj-debian:~/test/learngit# awk 'BEGIN{a=b;print a++,++a}'
+0 2
+######> < 可以作为字符串比较，也可以用作数值比较，关键看操作数如果是字符串 就会转换为字符串比较。两个都为数字 才转为数值比较。字符串比较：按照ascii码顺序比较。
+root@zrj-debian:~/test/learngit# awk 'BEGIN{a="11";if(a >= 9){print "ok";}}'  #a是字符串，无法比较，无输出
+root@zrj-debian:~/test/learngit# 
+root@zrj-debian:~/test/learngit# awk 'BEGIN{a="b";if(a >= "a"){print "ok";}}'     #字符串比较
+ok
+root@zrj-debian:~/test/learngit# awk 'BEGIN{a=11;if(a >= 9){print "ok";}}'    #数值比较  
+ok
+ 
+
+
+
+
+
+七、debian下apache2配置，实现自定义端口及访问指定目录。
+1.端口修改
+/etc/apache2/ports.conf,修改监听端口，默认为80，ssl端口为443；修改为4299，重启服务生效。
+2.自定义工程：新增配置文件，目录/etc/apache2/sites-available添加
+my_project.conf（可参照默认配置000-default.conf）
+######
+Listen 4299
+
+
+<VirtualHost *:4299> #端口
+  
+  	ErrorLog ${APACHE_LOG_DIR}/error.log  
+	CustomLog ${APACHE_LOG_DIR}/access.log combined  #这两句抄默认文件000-default.conf里面的日志配置
+ 
+    ServerName 192.168.158.132
+    DocumentRoot /home/zrj/www/  #指定访问目录
+</VirtualHost>
+###########
+3.修改apache2.conf，修改特定目录读写权限
+<Directory /home/zrj/www/>
+	Options Indexes FollowSymLinks 
+	AllowOverride None
+	Require all granted #授权
+</Directory>
+
+之后a2ensite my_project.conf，载入配置，重载systemctl reload apache2，应该可以通过192.168.158.132：4299访问到/home/zrj/www/ 下面的文件。
+网页下载文件，通过浏览器链接另存为可以实现。
+4.设置监听多个端口（比较低级的方法）
+以上1，2，3步骤执行后，会使之前默认监听端口80失效，apache部署成功提示网页打不开。在/etc/apache2/sites-enabled里面可以看到默认的网页配置文件000-default.conf处于生效状态（可以通过a2ensite和a2dissite将网页配置生效或者失效）。
+解决方法：修改000-default.conf配置，在前面添加Listen 80，单独监听80；同步骤3，将对应访问目录/var/www/html权限修改，systemctl reload apache2后可以访问之前默认界面。
+5.关于端口设置
+/etc/apache2/ports.conf里面可以设置监听http的多个端口，直接加两行Listen 80，Listen 4299可以同时监听80和4299，这样的话，工程网页配置，000-default.conf和my_project.conf里面的Listen 语句可以不加，只需<VirtualHost *:4299> 指定端口即可。
+双网卡的虚拟机，两个网卡的IP都可以访问到对应目录。（my_project.conf写了servername 192.168.158.132，貌似没作用；默认000-default.conf里面没有写）
+6.域名映射（目前只能在内网使用，外网映射无效）
+修改/etc/hosts,添加127.0.0.1        my.project.com test.com
+重启networking，在虚拟机浏览器fox fire里面可以通过my.project.com和test.com两个域名去访问到目录，在宿主机操作无效。（跟网上说的修改000-default.conf和my_project.conf里面的ServerName不太一样，网页配置文件servername直接留空对域名解析无影响；hosts里面随便配一个主机名都可以访问到目录，根据不同端口访问不同网页目录）
+7.剩余问题，https开启，限制IP访问（allow，deny）
+8./var/www/html目录里面软连接访问：
+需要配置apache2.conf：
+<Directory /var/www/>
+	Options Indexes FollowSymLinks  ##FollowSymLinks这个参数 Follow Symbolic Links，设置允许软连接到其他目录
+	AllowOverride None
+	Require all granted
+</Directory>
+
+建立软连文件：
+lrwxrwxrwx 1 root root    33 May 10 16:50 1.txt -> /root/test/learngit/echo_test.txt
+lrwxrwxrwx 1 root root    18 May 10 18:55 2.txt -> /home/zrj/test.txt
+此时1.txt访问提示403 forbidden；2.txt能正常访问打开
+原因在于软连指向的目录，需要开放x权限：
+root@zrj-debian:/var/www/html# ll -d /home/ /root /home/zrj/ /root/test/ /root/test/learngit/
+drwxr-xr-x  3 root root 4096 Feb 13 17:03 /home/
+drwxr-xr-x 19 zrj  zrj  4096 May 10 17:55 /home/zrj/
+drwx------  8 root root 4096 May 10 19:00 /root
+drwxr-xr-x  6 root root 4096 May  6 17:32 /root/test/
+drwxr-xr-x  4 root root 4096 May  8 18:55 /root/test/learngit/
+问题在于/root目录其他用户没有x权限，无法访问（Apache2允许时使用www用户）
+添加权限给其他用户chmod o+x /root/，之后1.txt能正常访问。
+
+Options (目錄參數)：
+Indexes：如果在此目錄下找不到『首頁檔案 (預設為 index.html) 』時， 就顯示整個目錄下的檔案名稱，至於『首頁檔案檔名』則與 DirectoryIndex 設定值有關
+FollowSymLinks：這是 Follow Symbolic Links 的縮寫， 字面意義是讓連結檔可以生效的意思。我們知道首頁目錄在 /var/www/html，既然是 WWW 的根目錄，理論上就像被 chroot 一般！ 一般來說被 chroot 的程式將無法離開其目錄，也就是說預設的情況下，你在 /var/www/html 底下的連結檔只要連結到非此目錄的其他地方，則該連結檔預設是失效的。 但使用此設定即可讓連結檔有效的離開本目錄。
+9.Alias  網址列延伸  實際Linux目錄,通过别名访问到其他目录
+Alias /test "/var/www/test/" 
+### <==製作一個目錄別名 (相當類似捷徑)！
+<Directory "/var/www/test">
+    Options Indexes MultiViews
+    AllowOverride None
+    Order allow,deny
+    Allow from all
+</Directory>
+
+###Alias /test "/var/www/test/" ，这一句前面的“/test”,如果写成“/test/”,则访问url需要严格写成：http://192.168.65.133/test/ ##后面有斜杆，缺少斜杆时页面报错。
+10.浏览权限设定（设置特定页面访问权限，iptables仅能开放或者整个拒绝，无法针对www的内容部分放行）
+order参数：
+Order deny,allow：以 deny 優先處理，但沒有寫入規則的則預設為 allow。常用於：拒絕所有，開放特定的條件；
+Order allow,deny：以 allow 為優先處理，但沒有寫入規則的則預設為 deny。常用於：開放所有，拒絕特定的條件。
+如果 allow 與 deny 的規則當中有重複的，則以預設的情況 (Order 的規範) 為主。
+
+<Directory "/var/www/html">
+    Options FollowSymLinks
+    AllowOverride None
+    Order allow,deny
+    Allow from all
+    Deny from 192.168.1.101  ###开放所有，拒绝192.168.1.101 以及.gov.tw的访问
+    Deny from .gov.tw
+</Directory>
+
+<Directory "/var/www/html/lan">
+    Options FollowSymLinks
+    AllowOverride None
+    Order deny,allow
+    deny from all
+    allow from 192.168.1.0/24 ###拒绝所有，开放192.168.1.0/24的访问
+</Directory>
+limit参数：
+<Directory "/var/www/html/lan">
+    AllowOverride none
+    Options FllowSymLinks
+
+    # 先允許能夠進行 GET, POST 與 OPTIONS 
+    <Limit GET POST OPTIONS>
+        Order allow,deny
+        Allow from all
+    </Limit>
+
+    # 再規定除了這三個動作之外，其他的動作不允許
+    <LimitExcept GET POST OPTIONS>
+        Order deny,allow
+        Deny from all
+    </LimitExcept>
+</Directory>
+
+
+八、python
+
+八-一、pyc 是一种二进制文件，是由py文件经过编译后，生成的文件，是一种byte code，py文件变成pyc文件后，加载的速度有所提高，而且pyc是一种跨 平台的字节码，是由python的虚拟机来执行的，这个是类似于JAVA或者.NET的虚拟机的概念。pyc的内容，是跟python的版本相关的，不同 版本编译后的pyc文件是不同的，2.5编译的pyc文件，2.4版本的python是无法执行的。
+1.python打印当前时间
+import datetime
+print(datetime.datetime.now().strftime('%F %T'))
+2.raw_input函数（python2版本）
+raw_input() 函数从标准输入读取一个行，并返回一个字符串：
+str = raw_input("Enter your input: ");  
+print "Received input is : ", str  （python3用的是input（）函数）
+print ()遇到“，”逗号会打印一个空格，遇到分号“；”会换行输出。
+3.转义符号
+转义字符\可以转义很多字符，比如\n表示换行，\t表示制表符，字符\本身也要转义，所以\\表示的字符就是\。如果字符串里面有很多字符都需要转义，就需要加很多\，为了简化，Python还允许用r''表示''内部的字符串默认不转义。
+如果字符串内部有很多换行，用\n写在一行里不好阅读，为了简化，Python允许用'''...'''的格式表示多行内容，注意在输入多行内容时，提示符由>>>变为...，提示你可以接着上一行输入，注意...是提示符，不是代码的一部分。当输入完结束符```和括号)后，执行该语句并打印结果。
+4.数据类型
+在python3中，input函数返回的是字符串，即你输入字符串，他就输出字符串，你输入数字，他还是输出字符串，那么在执行接下来的操作时就可能出现类型不匹配的情况。所以出现了字符串与数字比较的情况。
+a = input('输入a:')，输入数据后a的类型为字符串；需要使用强制性数据转换a = int（input（'输入a:'））
+5.格式化,%实现
+%运算符就是用来格式化字符串的。在字符串内部，%s表示用字符串替换，%d表示用整数替换，有几个%?占位符，后面就跟几个变量或者值，顺序要对应好。如果只有一个%?，括号可以省略。
+占位符	替换内容
+%d	整数
+%f	浮点数
+%s	字符串
+%x	十六进制整数
+其中，格式化整数和浮点数还可以指定是否补0和整数与小数的位数：print('%2d-%02d' % (3, 1)),第一个2表示缩进2个空格，第二个2表示不足两位时补0。
+print('%.2f' % 3.1415926)
+6.条件判断
+条件判断可以让计算机自己做选择，Python的if...elif...else很灵活。
+条件判断从上向下匹配，当满足条件时执行对应的块内语句，后续的elif和else都不再执行。
+冒号：后的语句如果有缩进，则为循环体中的代码块；如果无缩进，则为循环体外面的语句。
+sum = 0
+for x in range(10):
+    sum = sum + x
+print(sum)  #如果print有缩进四个空格，则每进行一次相加就打印一次，一共打印10次。
+冒号后的代码块，依次比上一句缩进四个空格。
+7.自定义函数调用
+把my_abs()的函数定义保存为abstest.py文件了，那么，可以在该文件的当前目录下启动Python解释器，用from abstest import my_abs来导入my_abs()函数，注意abstest是文件名（不含.py扩展名）。
+周五2018-11-23默认参数设置，不生效报错，求n次幂power.py，结果2018-11-26周一重启机器又正常了，默认参数生效，没报错，百思不得其解。
+另外一个报错，求一元二次方程时，将文件命名和def命名一样quadratic为时AttributeError: module 'math' has no attribute 'sqr'，把文件名称改后正常，python文件命名时,要注意不能和需要引用的模块名产生冲突。发现修改py文件之后，报错内容跟修改前一样，需要重新加载，需要退出python后再进入，单是from *** import ***无效果（之前重启机器后生效应该是一个原理）。
+8.可变参数
+在python函数中，可以定义可变参数，传入的参数个数是可变的，可以是1个，2个到任意个，0个也行。一般参数作为一个list或tuple传进来，在调用时，需要先组装一个list或tuple，如（[1,2,3]）,python允许在参数前面加*,变为可变参数。def calc（*numbers）就可以使用calc（1，2）来调用。如果是已经有了一个list或tuple，可以在list或tupl前加一个*号，把list或tuple的元素变成可变参数传进去，如nums=[1,2,3]可以使用calc（*nums）。
+9.关键字参数
+可变参数允许传入0个或者任意个参数，这些参数在函数调用时自动组装为一个tuple。而关键字参数允许传入0个或者任意个含参数名的参数，这些关键字参数在函数内部自动组装为一个dict。
+def person（name,age,**kw):
+    print ('name:',name,'age:',age,'other:',kw)
+>>> person('Adam', 45, gender='M', job='Engineer')
+name: Adam age: 45 other: {'gender': 'M', 'job': 'Engineer'}
+关键字参数用于拓展函数的功能，跟可变参数类似，可以通过先组装一个dict，然后再把dict转换为关键字参数传进去：
+>>> extra = {'city': 'Beijing', 'job': 'Engineer'}
+>>> person('Jack', 24, city=extra['city'], job=extra['job'])
+name: Jack age: 24 other: {'city': 'Beijing', 'job': 'Engineer'}
+可以简化写成：
+>>> extra = {'city': 'Beijing', 'job': 'Engineer'}
+>>> person('Jack', 24, **extra)
+name: Jack age: 24 other: {'city': 'Beijing', 'job': 'Engineer'}
+**extra表示把extra这个dict所有的key-value用关键字参数传入到函数的**hw参数，kw将会获得一个dict，注意kw获得的是extra的一份拷贝，对kw的改动不会影响到函数外的extra。
+10.命名关键字参数：函数的调用者可以传入任意不受限制的关键字参数。
+如果要限制关键字参数的名字，就可以用命名关键字参数，例如，只接收city和job作为关键字参数。这种方式定义的函数如下：
+def person(name, age, *, city, job):
+    print(name, age, city, job)
+city和job参数必须带参数名且缺一不可，同时出现。或者设置默认值，则可以缺省。
+使用命名关键字参数时，要特别注意，如果没有可变参数，就必须加一个*作为特殊分隔符。如果缺少*，Python解释器将无法识别位置参数和命名关键字参数：
+def person(name, age, city, job):
+    # 缺少 *，city和job被视为位置参数
+    pass
+在Python中定义函数，可以用必选参数、默认参数、可变参数、关键字参数和命名关键字参数，这5种参数都可以组合使用。但是请注意，参数定义的顺序必须是：必选参数、默认参数、可变参数、命名关键字参数和关键字参数。对于任意函数，都可以通过类似func(*args, **kw)的形式调用它，无论它的参数是如何定义的。
+*args是可变参数，args接收的是一个tuple；
+
+**kw是关键字参数，kw接收的是一个dict。
+
+
+八-一、list和str互转
+
+1.list转字符串
+命令：''.join(list)
+其中，引号中是字符之间的分割符，如“,”，“;”，“\t”等等,需要注意的是该方法需要list中的元素为字符型，若是整型，则需要先转换为字符型后再转为str类型。
+如：
+>>> l = ['1','2','3','5']
+>>> s2 = "".join(l)
+>>> s2
+'1235'
+对于整数list
+a = [1,2,3]
+b = [ str(i) for i in a ]
+此时b为list['1','2','3'],可以用.join(b)转换为str输出。
+也可以写为：
+>>> nums = [1,2,3]
+>>> nums_str = "".join([str(x) for x in nums])
+之前报错TypeError: 'str' object is not callable，是因为把系统函数str做了一次自定义，使用了str = （）
+，将str函数变成了变量名，导致后面再调用str[x]时出错。所以变量名要避开系统内建函数或参数名。
+2.str转list
+str3 = "www.google.com" 
+list3 = str3.split(".") #双引号里面为分割符，以空格分隔：.split()或.split("")
+print list3 
+['www', 'google', 'com']
+3. l1 = ['0','1','2','3','4','5','6','7','8','9']
+   number=[random.choice(l1) for j in range(pwlength)] ##pwlength表示长度，生成指定长度可重复的随机数字，生成的是list。
+如果使用number=[random.choice(range(10)) for j in range(8)]，输出形式list为[8, 9, 8, 6, 5, 4, 6, 5],这种无法使用.join转换str输出，提示TypeError: sequence item 0: expected str instance, int found。需要用上面的1中的纯整数list转换成字符型list，再转换成str。
+
+
+九、网络协议
+1.tcp封包表头数据
+Source Port & Destination Port (來源埠口 & 目標埠口)
+什麼是埠口(port)？我們知道 IP 封包的傳送主要是藉由 IP 位址連接兩端， 但是到底這個連線的通道是連接到哪裡去呢？沒錯！就是連接到 port 上頭啦！ 舉例來說，鳥哥的網站有開放 WWW 伺服器，這表示鳥站的主機必須要啟動一個可以讓 client 端連接的端口，這個端口就是 port (中文翻譯成為埠口)。同樣的，用戶端想要連接到鳥哥的鳥站時，就必須要在 client 主機上面啟動一個 port ，這樣這兩個主機才能夠利用這條『通道』來傳遞封包資料喔！這個目標與來源 port 的紀錄，可以說是 TCP 封包上最重要的參數了！
+
+Sequence Number (封包序號)
+由於 TCP 封包必須要帶入 IP 封包當中，所以如果 TCP 資料太大時(大於 IP 封包的容許程度)， 就得要進行分段。這個 Sequence Number 就是記錄每個封包的序號，可以讓收受端重新將 TCP 的資料組合起來。
+
+Acknowledge Number (回應序號)
+為了確認主機端確實有收到我們 client 端所送出的封包資料，我們 client 端當然希望能夠收到主機方面的回應，那就是這個 Acknowledge Number 的用途了。 當 client 端收到這個確認碼時，就能夠確定之前傳遞的封包已經被正確的收下了。
+
+Data Offset (資料補償)
+在圖 2.4-2 倒數第二行有個 Options 欄位對吧！那個 Options 的欄位長度是非固定的，而為了要確認整個 TCP 封包的大小，就需要這個標誌來說明整個封包區段的起始位置。
+
+Reserved (保留)
+未使用的保留欄位。
+
+Code (Control Flag, 控制標誌碼)
+當我們在進行網路連線的時候，必須要說明這個連線的狀態，好讓接收端瞭解這個封包的主要動作。這個欄位共有6個 bits ，分別代表 6 個控制碼，若為 1 則為啟動。分別說明如下：
+URG(Urgent)：若為 1 則代表該封包為緊急封包， 接收端應該要緊急處理，且圖 2.4-1 當中的 Urgent Pointer 欄位也會被啟用。
+ACK(Acknowledge)：若為 1 代表這個封包為回應封包， 則與上面提到的 Acknowledge Number 有關。
+PSH(Push function)：若為 1 時，代表要求對方立即傳送緩衝區內的其他對應封包，而無須等待緩衝區滿了才送。 
+RST(Reset)：如果 RST 為 1 的時候，表示連線會被馬上結束，而無需等待終止確認手續。這也就是說， 這是個強制結束的連線，且發送端已斷線。
+SYN(Synchronous)：若為 1，表示發送端希望雙方建立同步處理， 也就是要求建立連線。通常帶有 SYN 標誌的封包表示『主動』要連接到對方的意思。
+FIN(Finish)：若為 1 ，表示傳送結束，所以通知對方資料傳畢， 是否同意斷線，只是發送者還在等待對方的回應而已。
+
+1.1tcp的三次握手
+client(a.SYN=1,Seq:10001)------------>SYN------------>server(a.ACK=1,ack=10002;b.SYN=1,Seq=20001)
+server(a.ACK=1,ack=10002;b.SYN=1,Seq=20001)------------>SYN/ACK-------->client(a.ACK=1,ack=20002)
+client(a.ACK=1,ack=20002)------------>ACK------------>server(确认无误，开始传输)
+
+A:封包發起
+當用戶端想要對伺服器端連線時，就必須要送出一個要求連線的封包，此時用戶端必須隨機取用一個大於 1024 以上的埠口來做為程式溝通的介面。然後在 TCP 的表頭當中，必須要帶有 SYN 的主動連線(SYN=1)，並且記下發送出連線封包給伺服器端的序號 (Sequence number = 10001) 。
+
+B:封包接收與確認封包傳送
+當伺服器接到這個封包，並且確定要接收這個封包後，就會開始製作一個同時帶有 SYN=1, ACK=1 的封包， 其中那個 acknowledge 的號碼是要給 client 端確認用的，所以該數字會比(A 步驟)裡面的 Sequence 號碼多一號 (ack = 10001+1 = 10002)， 那我們伺服器也必須要確認用戶端確實可以接收我們的封包才行，所以也會發送出一個 Sequence (seq=20001) 給用戶端，並且開始等待用戶端給我們伺服器端的回應喔！
+
+C:回送確認封包
+當用戶端收到來自伺服器端的 ACK 數字後 (10002) 就能夠確認之前那個要求封包被正確的收受了， 接下來如果用戶端也同意與伺服器端建立連線時，就會再次的發送一個確認封包 (ACK=1) 給伺服器，亦即是 acknowledge = 20001+1 = 20002 囉。
+
+D:取得最後確認
+若一切都順利，在伺服器端收到帶有 ACK=1 且 ack=20002 序號的封包後，就能夠建立起這次的連線了。
+
+
+2.Socket Pair
+由於網路是雙向的，要達成連線的話得要伺服器與用戶端均提供了 IP 與埠口才行，這個成對的資料稱之為 Socket Pair
+
+來源 IP + 來源埠口 (Source Address + Source Port)
+目的 IP + 目的埠口 (Destination Address + Destination Port)
+
+3.网络中机器查询域名与ip：
+对于外网地址，通过/etc/resolv.conf里面配置的网关去查询；
+对于内网ip，局域网内机器互联，会查询/etc/hosts,所以在这个文件里可以添加局域网内机器主机ip和主机名称，提高互联速度。
+[root@www ~]# vim /etc/hosts
+# Do not remove the following line, or various programs
+# that require network functionality will fail.
+127.0.0.1               localhost.localdomain（主机名）   localhost（别名）
+192.168.1.1　　linux001
+192.168.1.2　　linux002
+192.168.1.3　　linux003
+
+4.网络指令
+4.1：ip route show
+root@zrj-debian:~/test/learngit# ip route show
+default via 192.168.65.2 dev eth0 onlink 
+100.10.1.0/24 dev eth0 scope link 
+169.254.0.0/16 dev eth0 scope link metric 1000 
+192.168.65.0/24 dev eth0 proto kernel scope link src 192.168.65.132 
+参数说明：
+proto：此路由的路由協定，主要有 redirect, kernel, boot, static, ra 等， 其中 kernel 指的是直接由核心判斷自動設定。
+scope：路由的範圍，主要是 link ，亦即是與本裝置有關的直接連線
+
+4.2：[root@www ~]# traceroute [選項與參數] IP
+選項與參數：
+-n ：可以不必進行主機的名稱解析，單純用 IP ，速度較快！
+-U ：使用 UDP 的 port 33434 來進行偵測，這是預設的偵測協定；
+-I ：使用 ICMP 的方式來進行偵測；
+-T ：使用 TCP 來進行偵測，一般使用 port 80 測試
+-w ：若對方主機在幾秒鐘內沒有回聲就宣告不治...預設是 5 秒
+-p 埠號：若不想使用 UDP 與 TCP 的預設埠號來偵測，可在此改變埠號。
+-i 裝置：用在比較複雜的環境，如果你的網路介面很多很複雜時，才會用到這個參數；
+         舉例來說，你有兩條 ADSL 可以連接到外部，那你的主機會有兩個 ppp，
+         你可以使用 -i 來選擇是 ppp0 還是 ppp1 啦！
+-g 路由：與 -i 的參數相仿，只是 -g 後面接的是 gateway 的 IP 就是了。
+
+
+4.3tcpdump中flags说明
+
+14:31:22.950162 IP zrj-debian.ssh > 192.168.65.1.49864: Flags [P.], seq 2127092637:2127092769, ack 319173742, win 297, length 132
+14:31:22.950261 IP 192.168.65.1.49864 > zrj-debian.ssh: Flags [.], ack 132, win 2050, length 0
+14:31:22.950305 IP zrj-debian.ssh > 192.168.65.1.49864: Flags [P.], seq 132:184, ack 1, win 297, length 52
+14:31:22.950370 IP zrj-debian.ssh > 192.168.65.1.49864: Flags [P.], seq 184:316, ack 1, win 297, length 132
+14:31:22.950415 IP 192.168.65.1.49864 > zrj-debian.ssh: Flags [.], ack 316, win 2049, length 0
+14:31:22.950450 IP zrj-debian.ssh > 192.168.65.1.49864: Flags [P.], seq 316:368, ack 1, win 297, length 52
+14:31:22.991084 IP 192.168.65.1.49864 > zrj-debian.ssh: Flags [.], ack 368, win 2049, length 0
+
+S (SYN), F (FIN), P (PUSH), R (RST), U (URG), W (ECN CWR), E (ECN-Echo) or `.' (ACK), or `none'
+ACK[.]中ack的值为前一次ACK的ack加上length的值。length的值为seq的差值，表明数据所在的位置为序号132到184。
+
+十、debian系统设置
+1.prodfs和sysfs
+procfs和sysfs两个伪文件系统，分别加载于"/proc"和"/sys"之上，将内核中的数据结构暴露给用户空间。或者说，这些条目是虚拟的，他们打开了深入了解操作系统运行的方便之门。
+目录"/proc"为每个正在运行的进程提供了一个子目录，目录的名字就是进程标识符（PID）。需要读取进程信息的系统工具，如ps()，可以从这个目录结构获得信息。
+
+"/proc/sys"之下的目录，包含了可以更改某些内核运行参数的接口。（也可以使用专门的sysctl()命令修改，或者使用其预加载/配置文件"/etc/sysctl.conf"。）
+root@zrj-debian:~/test/learngit# sysctl -a | grep rp_filter  ##显示含rp_filter的变量
+net.ipv4.conf.all.arp_filter = 0
+net.ipv4.conf.all.rp_filter = 0
+net.ipv4.conf.default.arp_filter = 0
+net.ipv4.conf.default.rp_filter = 0
+net.ipv4.conf.eth0.arp_filter = 0
+net.ipv4.conf.eth0.rp_filter = 0
+net.ipv4.conf.lo.arp_filter = 0
+### 含rp_filter变量路径：/proc/sys/net/ipv4/conf/*/rp_filter
+
+"/sys"以下的目录包含了内核输出的数据结构，它们的属性，以及它们之间的链接。它同时也包含了改变某些内核运行时参数的接口。
+
+2./proc/sys/net/ipv4/tcp_syncookies
+
+當啟動 SYN Cookie 時，主機在發送 SYN/ACK 確認封包前，會要求 Client 端在短時間內回覆一個序號，這個序號包含許多原本 SYN 封包內的資訊，包括 IP、port 等。若 Client 端可以回覆正確的序號，那麼主機就確定該封包為可信的，因此會發送 SYN/ACK 封包，否則就不理會此一封包
+echo "1" > /proc/sys/net/ipv4/tcp_syncookies ##开启
+
+3./proc/sys/net/ipv4/conf/網路介面/*
+
+rp_filter：稱為逆向路徑過濾 (Reverse Path Filtering)， 可以藉由分析網路介面的路由資訊配合封包的來源位址，來分析該封包是否為合理。舉例來說，你有兩張網卡，eth0 為 192.168.1.10/24 ，eth1 為 public IP 。那麼當有一個封包自稱來自 eth1 ，但是其 IP 來源為 192.168.1.200，那這個封包就不合理，應予以丟棄。
+4.accept_redirects：
+當你在同一個實體網域內架設一部路由器， 但這個實體網域有兩個 IP 網域，例如 192.168.0.0/24, 192.168.1.0/24。此時你的 192.168.0.100 想要向 192.168.1.100 傳送訊息時，路由器可能會傳送一個 ICMP redirect 封包告知 192.168.0.100 直接傳送資料給 192.168.1.100 即可，而不需透過路由器。因為 192.168.0.100 與 192.168.1.100確實是在同一個實體線路上 (兩者可以直接互通)，所以路由器會告知來源 IP 使用最短路徑去傳遞資料。
+
+5.dns系统
+在 Internet 當中，任何一部合法的主機都具有獨一無二的主機名稱，這個主機名稱包含了 hostname 與 domain name ，並稱為 Fully Qualified（有资格的，合格的） Domain Name (FQDN)
+5.1正解档记录的资料(resource record,RR):
+# 常見的正解檔 RR 相關資訊
+[domain]    IN  [[RR type]  [RR data]]
+主機名稱.   IN  A           IPv4 的 IP 位址
+主機名稱.   IN  AAAA        IPv6 的 IP 位址
+領域名稱.   IN  NS          管理這個領域名稱的伺服器主機名字.
+領域名稱.   IN  SOA         管理這個領域名稱的七個重要參數
+領域名稱.   IN  MX          順序數字  接收郵件的伺服器主機名字 Mail eXchanger (郵件交換)
+主機別名.   IN  CNAME       實際代表這個主機別名的主機名字.
+
+输出格式：
+[domain]   [ttl]          IN [[RR type]  [RR data]]
+[待查資料] [暫存時間(秒)] IN [[資源類型] [資源內容]]
+root@zrj-debian:~/test/learngit# dig github.com
+（前面输出一段略）
+;; ANSWER SECTION:
+github.com.		5	IN	A	192.30.253.112
+
+;; AUTHORITY SECTION:
+github.com.		5	IN	NS	ns-1283.awsdns-32.org.
+github.com.		5	IN	NS	ns-421.awsdns-52.com.
+github.com.		5	IN	NS	ns-520.awsdns-01.net.
+github.com.		5	IN	NS	ns-1707.awsdns-21.co.uk.
+（后面一段略）
+
+5.2反解檔記錄的 RR 資料，PTR（pointer指向）查询ip对应的主机名称
+
+十一、工具包及常用命令
+1.网速测试工具iperf3
+apt-get install iperf3
+# Server 端
+iperf3 -s
+# Client 端
+iperf3 -c SERVER_IP
+
+常见参数：
+-t 參數可以指定傳輸測試的持續時間，而 -i 可以指定輸出數據的間隔時間：
+# 測試 20 秒，每隔 4 秒輸出測試數據
+iperf3 -c SERVER_IP -t 20 -i 4
+
+--logfile 參數可以將輸出的測試結果報表或是錯誤訊息儲存至檔案中：
+# 將輸出訊息儲存至 output.txt 檔案中
+iperf3 -c SERVER_IP --logfile output.txt
+
+iPerf3 預設會使用的連接埠（port）是 5201，若要自行指定連接埠，可以使用 -p 參數：
+# 使用 12345 這個連接埠的 server
+iperf3 -s -p 12345
+# 使用 12345 這個連接埠的 client
+iperf3 -c SERVER_IP -p 12345
+
+若要測試 UDP 傳輸協定的效能，可以使用 -u 參數：
+# 使用 UDP 傳輸協定
+iperf3 -c SERVER_IP -u
+
+iPerf3 預設會測試上傳的速度（由 client 傳送資料，而 server 負責接收）若要測試下載的速度（由 server 傳送資料，而 client 負責接收），則可以使用 -R 參數：
+# 測試反向傳輸（下載）
+iperf3 -c SERVER_IP -R
+
+-4 與 -6 可以指定只使用 IPv4 或 IPv6：
+# 只使用 IPv4
+iperf3 -c SERVER_IP -4
+# 只使用 IPv6
+iperf3 -c SERVER_IP -6
+
+-f 自訂用來測試傳送的檔案：
+# 使用 YOUR_FILE 這個檔案來測試傳送速度
+iperf3 -c SERVER_IP -F YOUR_FILE
+
+-b:指定发送带宽
+#以100M带宽发送
+iperf3 -u -c 192.168.0.222 -b 100M
+
+-P指定同时连接的测试数量
+iperf3 -c 192.168.0.222 -P 2
+
+2.iptables实现特定ip流量统计
+#统计服务器上192.168.65.132的入网流量
+iptables -I INPUT -d 192.168.65.132
+#统计服务器上192.168.65.132的出网流量
+iptables -I OUTPUT -s 192.168.65.132
+#统计特定端口流量
+iptables -I INPUT -d 192.168.65.132 -p tcp --dport 80 ###统计入网流量
+iptables -I OUTPUT -s 192.168.65.132 -p tcp --dport 80 ###80端口出网流量
+查看流量
+iptables -n -v -L -t filter
+作为路由时的流量统计，需要把规则放到转发链FORWARD表
+iptables -I FORWARD -d 192.168.65.132 ###统计到该ip的入网流量
+iptables -I FORWARD -s 192.168.65.132 ###统计该ip出网流量
+
+3.nohup和&
+&是指在后台运行，但当用户推出(挂起)的时候，命令自动也跟着退出
+nohup关闭标准输入，终端不再能够接收任何输入（标准输入),不挂断运行
+nohup COMMAND & ###命令可以在后台不挂断运行，关闭xshell没有影响
+关闭进程需要通过ps aux | grep 查找PID，通过kill -9 PID杀掉进程。
+
+4.tmux：Terminal MultipleXer 实现多窗口管理，后台不挂断运行等
+tmux new -s test ##启动命名为test回话session，显示为0：bash
+Ctrl+B，之后按c键，新建一个窗口，出现1：bash；通过Ctrl+B按键，再按数字键切换bash，当前bash显示有*。
+运行命令后挂起：Ctrl+B，后按d
+tmux ls ##显示挂起及启动的tmux
+tmux a -t test ##恢复到执行命令的窗口。
+
+5.journalctl 日志查看工具
+  -p err 查看错误日志
+  -ex -e --pager-end  Immediately jump to the end in the pager，-x --catalog Add message explanations where available
+默认systemd-journald是不保存系统日志到硬盘的，那么关机后再次开机只能看到本次开机之后的日志，关机之前的日志是无法查看的。可以通过配置/etc/systemd/journald.conf，配置 Storage=persistent，然后重启 systemd-journal；
+或者手动创建/var/log/journal ，journalctl --flush 将内存盘中的数据刷到硬盘使其写到硬盘。
+
+# 查看指定时间的日志
+$ sudo journalctl --since="2012-10-30 18:17:16"
+$ sudo journalctl --since "20 min ago"
+$ sudo journalctl --since yesterday
+$ sudo journalctl --since "2015-01-10" --until "2015-01-11 03:00"
+$ sudo journalctl --since 09:00 --until "1 hour ago"
+
+
+
+```
