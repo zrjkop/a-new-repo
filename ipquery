@@ -1,0 +1,13 @@
+#!bin/bash
+#shell-name:ipquery
+#date:
+#author:copyonline
+
+FILE=./$1
+awk '{print $1}' $FILE | while read line
+do
+#关键代码
+curl -s http://ip-api.com/json/$line?lang=zh-CN -w "\n" >> ./$1-ip
+#格化ip归属
+done
+awk  'BEGIN{FS=":"}{print $3}' ./$1-ip | sed 's/来自/\t/g' >> ./sort-$1-ip
